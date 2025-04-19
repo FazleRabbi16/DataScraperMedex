@@ -13,10 +13,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 use App\Http\Controllers\ScrapingController;
+use App\Http\Controllers\HelperController;
 
-Route::post('/scrape', [ScrapingController::class, 'scrapeMultiple']);
-Route::post('/duplicate_url', [ScrapingController::class, 'urlChecker']);
-Route::post('/tab_cap_url', [ScrapingController::class, 'urlCheckerTabCap']);
+Route::post('/tab_cap_url', [HelperController::class, 'urlCheckerTabCap']);
+Route::post('/duplicate_url', [HelperController::class, 'urlChecker']);
+Route::post('/upload_url_txt', [HelperController::class, 'uploadUrl']);
+Route::post('/scrape', [ScrapingController::class, 'scrapeFromFile']);
+
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
