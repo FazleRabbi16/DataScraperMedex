@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Storage;
+use Validator;
 
 class HelperController extends Controller
 {
@@ -148,34 +149,43 @@ class HelperController extends Controller
     }
     //check product quantity adder, like 80mg+20mg , () etc
     public function quantityChecker(Request $request)
-    {
-        // Step 1: Validate the uploaded file
-        $validator = Validator::make($request->all(), [
-            'file' => 'required|file|mimes:txt,json',
-        ]);
+{
+    // Step 1: Validate the uploaded file
+    $validator = Validator::make($request->all(), [
+        'file' => 'required|file|mimes:txt,json',
+    ]);
 
-        if ($validator->fails()) {
-            return response()->json(['errors' => $validator->errors()], 422);
-        }
-
-        // Step 2: Read and parse JSON from uploaded file
-        $file = $request->file('file');
-        $content = file_get_contents($file->getRealPath());
-        $products = json_decode($content, true);
-
-        if (!is_array($products)) {
-            return response()->json(['error' => 'Invalid JSON format'], 400);
-        }
-
-        // Step 3: Filter products with special characters in quantity
-        $filtered = array_filter($products, function ($product) {
-            if (!isset($product['quantity'])) return false;
-
-            return preg_match('/[+\/\(\)"]/', $product['quantity']);
-        });
-
-        // Step 4: Return the matching products
-        return response()->json(array_values($filtered));
+    if ($validator->fails()) {
+        return response()->json(['errors' => $validator->errors()], 422);
     }
+
+    // Step 2: Read and parse JSON from uploaded file
+    $file = $request->file('file');
+    $content = file_get_contents($file->getRealPath());
+    $products = json_decode($content, true);
+    $totalSubmitted = count($products);
+    if (!is_array($products)) {
+        return response()->json(['error' => 'Invalid JSON format'], 400);
+    }
+
+    // Step 3: Filter products where 'quantity' contains special characters
+    $filtered = array_filter($products, function ($product) {
+        if (!isset($product['quantity'])) return false;
+        return preg_match('/[+\/\(\)"]/', $product['quantity']);
+    });
+
+    // Step 4: Save filtered objects to a file (unchanged data)
+    $savePath = storage_path('app/filter_quantity_checked.txt');
+    file_put_contents($savePath, json_encode(array_values($filtered), JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
+
+    // Step 5: Return success response
+    return response()->json([
+        'message' => 'Filtered products saved successfully.',
+        'total_submitted' => $totalSubmitted,
+        'total_matched' => count($filtered)
+    ]);
+}
+
+
 
 }
