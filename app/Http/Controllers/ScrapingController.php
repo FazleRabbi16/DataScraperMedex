@@ -53,7 +53,10 @@ class ScrapingController extends Controller
 
             // Data extraction
             $rawProductName = $this->getXPathValue($xpath, '//h1[contains(@class, "brand")]');
-            $productName = trim(preg_replace('/<[^>]*>/', '', $rawProductName));
+            // Remove anything inside <small> ... </small> first
+            $withoutSmall = preg_replace('/<small.*?<\/small>/is', '', $rawProductName);
+            // Then remove any remaining tags
+            $productName = trim(strip_tags($withoutSmall));
 
             $dosageForm = $this->getXPathValue($xpath, '//h1[contains(@class, "brand")]/small');
             $genericName = $this->getXPathValue($xpath, '//div[@title="Generic Name"]/a');
@@ -98,8 +101,8 @@ class ScrapingController extends Controller
 
             $results[] = [
                 'url' => $url,
-                'productName' => trim($productName),
-                'type' => $type ?: 'N/A',
+                'productName' =>$productName,
+                'type' => $type,
                 'genericName' => trim($genericName),
                 'quantity' => trim($strength),
                 'companyName' => trim($companyName),

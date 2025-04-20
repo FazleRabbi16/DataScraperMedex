@@ -18,6 +18,7 @@ use App\Http\Controllers\HelperController;
 Route::post('/tab_cap_url', [HelperController::class, 'urlCheckerTabCap']);
 Route::post('/duplicate_url', [HelperController::class, 'urlChecker']);
 Route::post('/upload_url_txt', [HelperController::class, 'uploadUrl']);
+Route::post('/quantiy_adder_checker', [HelperController::class, 'quantityChecker']);
 Route::post('/scrape', [ScrapingController::class, 'scrapeFromFile']);
 
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {

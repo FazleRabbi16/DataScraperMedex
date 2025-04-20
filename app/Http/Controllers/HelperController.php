@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Storage;
 
 class HelperController extends Controller
 {
@@ -145,4 +146,36 @@ class HelperController extends Controller
             'message' => 'Please upload a valid file.'
         ], 400);
     }
+    //check product quantity adder, like 80mg+20mg , () etc
+    public function quantityChecker(Request $request)
+    {
+        // Step 1: Validate the uploaded file
+        $validator = Validator::make($request->all(), [
+            'file' => 'required|file|mimes:txt,json',
+        ]);
+
+        if ($validator->fails()) {
+            return response()->json(['errors' => $validator->errors()], 422);
+        }
+
+        // Step 2: Read and parse JSON from uploaded file
+        $file = $request->file('file');
+        $content = file_get_contents($file->getRealPath());
+        $products = json_decode($content, true);
+
+        if (!is_array($products)) {
+            return response()->json(['error' => 'Invalid JSON format'], 400);
+        }
+
+        // Step 3: Filter products with special characters in quantity
+        $filtered = array_filter($products, function ($product) {
+            if (!isset($product['quantity'])) return false;
+
+            return preg_match('/[+\/\(\)"]/', $product['quantity']);
+        });
+
+        // Step 4: Return the matching products
+        return response()->json(array_values($filtered));
+    }
+
 }
