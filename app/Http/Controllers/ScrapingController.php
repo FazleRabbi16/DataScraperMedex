@@ -12,27 +12,27 @@ class ScrapingController extends Controller
         set_time_limit(0);  // Prevent script timeout
         $filePath = 'url.txt';
         $outputPath = 'scrabe.txt';
-
+    
         if (!Storage::exists($filePath)) {
             return response()->json(['success' => false, 'message' => 'URL file not found.'], 404);
         }
-
+    
         $urls = explode("\n", trim(Storage::get($filePath)));
         $results = [];
-
+    
         if (Storage::exists($outputPath)) {
             $existingData = json_decode(Storage::get($outputPath), true);
             if (is_array($existingData)) {
                 $results = $existingData;
             }
         }
-
+    
         foreach ($urls as $url) {
             $url = trim($url);
             if (empty($url)) continue;
-
+    
             $userAgent = $this->getRandomUserAgent();
-
+    
             $contextOptions = [
                 "http" => [
                     "header" => "User-Agent: $userAgent"
@@ -40,69 +40,81 @@ class ScrapingController extends Controller
             ];
             $context = stream_context_create($contextOptions);
             $html = @file_get_contents($url, false, $context);
-
+    
             if ($html === false) {
                 continue;
             }
-
+    
             $dom = new \DOMDocument();
             libxml_use_internal_errors(true);
             $dom->loadHTML($html);
             libxml_clear_errors();
             $xpath = new \DOMXPath($dom);
-
-            // Data extraction
+    
+            // Extract raw product name (without <small> tag content)
             $rawProductName = $this->getXPathValue($xpath, '//h1[contains(@class, "brand")]');
-            // Remove anything inside <small> ... </small> first
+            // Remove any <small> tag content inside the product name
             $withoutSmall = preg_replace('/<small.*?<\/small>/is', '', $rawProductName);
-            // Then remove any remaining tags
+            // Clean the remaining HTML tags and extract the product name
             $productName = trim(strip_tags($withoutSmall));
-
-            $dosageForm = $this->getXPathValue($xpath, '//h1[contains(@class, "brand")]/small');
+    
+            // Extract type (dosage form) which is inside the <small> tag
+            $type = $this->getXPathValue($xpath, '//h1[contains(@class, "brand")]/small');
+    
+            // Make sure to extract only the product name (without dosage form) by removing the type part from productName
+            // Remove the dosage form (IV Injection, Tablet, etc.) if it exists in the productName.
+            if (strpos($productName, $type) !== false) {
+                $productName = trim(str_replace($type, '', $productName)); // Remove type from productName
+            }
+    
+            // Extract other details
             $genericName = $this->getXPathValue($xpath, '//div[@title="Generic Name"]/a');
             $strength = $this->getXPathValue($xpath, '//div[@title="Strength"]');
-
-            $companyName = $this->getXPathValue($xpath, '//div[@title="Manufactured by"]/a');  // Extracted company name
-
+            $companyName = $this->getXPathValue($xpath, '//div[@title="Manufactured by"]/a');
+    
+            // Extract the unit price and other related info
             $unitPriceRaw = $this->getXPathValue($xpath, '//span[contains(text(), "Unit Price:")]/following-sibling::span[1]');
             $altDoseText = $this->getXPathValue($xpath, '//div[contains(@class, "package-container")]/span[1]');
-
+    
             // If unit price isn't found, fallback to another node
             if ($unitPriceRaw === 'N/A') {
                 $unitPriceRaw = $this->getXPathValue($xpath, '//div[contains(@class, "package-container")]/span[2]');
             }
-
+    
             $cleanUnitPrice = (float) str_replace(['৳', 'Tk', ' '], '', $unitPriceRaw);
             $retailMaxPrice = $cleanUnitPrice > 0 ? $cleanUnitPrice : 0.00;
-
+    
             $cartInc = 1; // default
             $packSizeNodes = $xpath->query('//span[contains(@class, "pack-size-info")]');
-
+    
             if ($packSizeNodes->length > 0) {
                 $firstPackText = trim($packSizeNodes->item(0)->textContent);
                 if (preg_match('/x\s*(\d+)/i', $firstPackText, $matches)) {
                     $cartInc = (int) $matches[1];
                 }
             }
-
-            $type = trim(preg_replace('/\s*\(.*?\)/', '', $dosageForm));
+    
+            // Clean up the type for unit in pack and cart text
             $unitPriceExists = strpos($html, 'Unit Price:') !== false;
             $cartText = str_replace(':', '', $unitPriceExists ? $type : 'x ' . trim($altDoseText));
-
+    
+            // Determine the unit in pack information based on dosage form
             if (in_array(strtolower($type), ['tablet', 'capsule'])) {
                 $unitInAPack = $cartInc . ' ' . strtolower($cartText) . ' in a strip';
             } else {
                 $unitInAPack = strtolower(str_replace('x ', '', $cartText));
             }
-
+    
+            // Extract product name from URL to create cover image name
             $urlParts = explode('/', $url);
             $productNameFromURL = end($urlParts);
             $coverImage = $productNameFromURL . '.jpg';
-
+    
+            // Collect all the extracted information into an array
             $results[] = [
                 'url' => $url,
-                'productName' =>$productName,
-                'type' => $type,
+                'productName' => $productName,  // Cleaned product name without dosage form
+                'type' => $type,                // Extracted type (e.g., IV Injection)
                 'genericName' => trim($genericName),
                 'quantity' => trim($strength),
                 'companyName' => trim($companyName),
@@ -115,16 +127,18 @@ class ScrapingController extends Controller
                 'status' => 'active',
                 'coverImage' => $coverImage
             ];
-
+    
             // Write progress after each URL
             Storage::put($outputPath, json_encode($results, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
-
+    
             // Anti-blocking pause
             $this->introduceDelay();
         }
-
+    
         return response()->json(['success' => true, 'message' => 'Scraping completed and saved to scrabe.txt.']);
     }
+    
+
 
     // Random delay between requests
     private function introduceDelay()
