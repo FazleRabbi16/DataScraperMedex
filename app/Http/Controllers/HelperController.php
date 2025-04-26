@@ -269,9 +269,46 @@ class HelperController extends Controller
          'duplicate_cover_images' => $duplicateCoverImages,
      ]);
  }
- 
- 
+ // adjust coverImage for upload 
+public function adjustCoverImageForUpload(Request $request)
+{
+    // Step 1: Validate the uploaded file
+    $validator = Validator::make($request->all(), [
+        'file' => 'required|file|mimes:txt,json',
+    ]);
 
+    if ($validator->fails()) {
+        return response()->json(['errors' => $validator->errors()], 422);
+    }
 
+    // Step 2: Read and decode JSON from uploaded file
+    $file = $request->file('file');
+    $content = file_get_contents($file->getRealPath());
+    $products = json_decode($content, true);
+
+    if (!is_array($products)) {
+        return response()->json(['error' => 'Invalid JSON format'], 400);
+    }
+
+    // Step 3: Adjust coverImage
+    foreach ($products as &$product) {
+        if (isset($product['url'], $product['coverImage'])) {
+            if (preg_match('/\/brands\/(\d+)\//', $product['url'], $matches)) {
+                $brandId = $matches[1];
+                $coverImage = $product['coverImage'];
+
+                // Insert brand ID before ".jpg"
+                $newCoverImage = preg_replace('/\.jpg$/', '-' . $brandId . '.jpg', $coverImage);
+                $product['coverImage'] = $newCoverImage;
+            }
+        }
+    }
+
+    // Step 4: Save to AllProductCoverImageAdjust.txt
+    $adjustedContent = json_encode($products, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
+    Storage::put('AllProductCoverImageAdjust.txt', $adjustedContent);
+
+    return response()->json(['message' => 'Cover images adjusted and saved successfully']);
+}
 
 }

@@ -13,7 +13,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "denazit-05-mg-tablet.jpg"
+        "coverImage": "denazit-05-mg-tablet-31116.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2374/actilac-335-gm-oral-solution",
@@ -29,7 +29,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "actilac-335-gm-oral-solution.jpg"
+        "coverImage": "actilac-335-gm-oral-solution-2374.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/37501/laxofit-5-mg-oral-solution",
@@ -45,7 +45,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "laxofit-5-mg-oral-solution.jpg"
+        "coverImage": "laxofit-5-mg-oral-solution-37501.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35721/laxante-5-mg-oral-solution",
@@ -61,7 +61,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "laxante-5-mg-oral-solution.jpg"
+        "coverImage": "laxante-5-mg-oral-solution-35721.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/32290/famodin-40-mg-suspension",
@@ -77,7 +77,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "famodin-40-mg-suspension.jpg"
+        "coverImage": "famodin-40-mg-suspension-32290.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/37342/pikos-5-mg-oral-solution",
@@ -93,7 +93,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "pikos-5-mg-oral-solution.jpg"
+        "coverImage": "pikos-5-mg-oral-solution-37342.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/21939/maxicon-480-mg-suspension",
@@ -109,7 +109,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "maxicon-480-mg-suspension.jpg"
+        "coverImage": "maxicon-480-mg-suspension-21939.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26299/flatameal-ds-200-mg-suspension",
@@ -125,7 +125,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "flatameal-ds-200-mg-suspension.jpg"
+        "coverImage": "flatameal-ds-200-mg-suspension-26299.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/37573/gavinil-500-mg-suspension",
@@ -141,7 +141,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "gavinil-500-mg-suspension.jpg"
+        "coverImage": "gavinil-500-mg-suspension-37573.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/34526/gavilac-m-mint-500-mg-suspension",
@@ -157,7 +157,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "gavilac-m-mint-500-mg-suspension.jpg"
+        "coverImage": "gavilac-m-mint-500-mg-suspension-34526.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/34753/nexpro-mups-20-mg-tablet",
@@ -173,7 +173,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "nexpro-mups-20-mg-tablet.jpg"
+        "coverImage": "nexpro-mups-20-mg-tablet-34753.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2432/a-zyme-325-mg-tablet",
@@ -189,7 +189,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "a-zyme-325-mg-tablet.jpg"
+        "coverImage": "a-zyme-325-mg-tablet-2432.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/6520/fimoxyl-500-mg-capsule",
@@ -205,7 +205,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "fimoxyl-500-mg-capsule.jpg"
+        "coverImage": "fimoxyl-500-mg-capsule-6520.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12214/lorfast-5-mg-suspension",
@@ -221,7 +221,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "lorfast-5-mg-suspension.jpg"
+        "coverImage": "lorfast-5-mg-suspension-12214.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/10173/metsina-200-mg-suspension",
@@ -237,7 +237,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "metsina-200-mg-suspension.jpg"
+        "coverImage": "metsina-200-mg-suspension-10173.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30978/biltin-125-mg-oral-solution",
@@ -253,7 +253,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "biltin-125-mg-oral-solution.jpg"
+        "coverImage": "biltin-125-mg-oral-solution-30978.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/11396/hpr-50-mg-suspension",
@@ -269,7 +269,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "hpr-50-mg-suspension.jpg"
+        "coverImage": "hpr-50-mg-suspension-11396.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33476/itracon-50-mg-oral-solution",
@@ -285,7 +285,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "itracon-50-mg-oral-solution.jpg"
+        "coverImage": "itracon-50-mg-oral-solution-33476.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33159/sperid-1-mg-oral-solution",
@@ -301,7 +301,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "sperid-1-mg-oral-solution.jpg"
+        "coverImage": "sperid-1-mg-oral-solution-33159.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30179/neurocet-500-mg-oral-solution",
@@ -317,7 +317,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "neurocet-500-mg-oral-solution.jpg"
+        "coverImage": "neurocet-500-mg-oral-solution-30179.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/1629/paridon-5-mg-suspension",
@@ -333,7 +333,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "paridon-5-mg-suspension.jpg"
+        "coverImage": "paridon-5-mg-suspension-1629.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5154/neurolep-500-mg-syrup",
@@ -349,7 +349,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "neurolep-500-mg-syrup.jpg"
+        "coverImage": "neurolep-500-mg-syrup-5154.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/4159/tusca-30-mg-syrup",
@@ -365,7 +365,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "tusca-30-mg-syrup.jpg"
+        "coverImage": "tusca-30-mg-syrup-4159.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/547/amboten-15-mg-syrup",
@@ -381,7 +381,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "amboten-15-mg-syrup.jpg"
+        "coverImage": "amboten-15-mg-syrup-547.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/31170/madhuvas-5-gm-syrup",
@@ -397,7 +397,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "madhuvas-5-gm-syrup.jpg"
+        "coverImage": "madhuvas-5-gm-syrup-31170.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/36809/brofex-ts-30-mg-extend-release-suspension",
@@ -413,7 +413,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "brofex-ts-30-mg-extend-release-suspension.jpg"
+        "coverImage": "brofex-ts-30-mg-extend-release-suspension-36809.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/541/ambolyt-15-mg-syrup",
@@ -429,7 +429,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ambolyt-15-mg-syrup.jpg"
+        "coverImage": "ambolyt-15-mg-syrup-541.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30687/miracit-75-mg-syrup",
@@ -445,7 +445,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "miracit-75-mg-syrup.jpg"
+        "coverImage": "miracit-75-mg-syrup-30687.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26925/pires-m-100-mg-syrup",
@@ -461,7 +461,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "pires-m-100-mg-syrup.jpg"
+        "coverImage": "pires-m-100-mg-syrup-26925.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3978/bukof-75-mg-syrup",
@@ -477,7 +477,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "bukof-75-mg-syrup.jpg"
+        "coverImage": "bukof-75-mg-syrup-3978.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/4051/lytex-15-mg-syrup",
@@ -493,7 +493,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "lytex-15-mg-syrup.jpg"
+        "coverImage": "lytex-15-mg-syrup-4051.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7808/sudoxim-40-mg-suspension",
@@ -509,7 +509,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "sudoxim-40-mg-suspension.jpg"
+        "coverImage": "sudoxim-40-mg-suspension-7808.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7554/emixef-100-mg-suspension",
@@ -525,7 +525,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "emixef-100-mg-suspension.jpg"
+        "coverImage": "emixef-100-mg-suspension-7554.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/8786/klarix-125-mg-suspension",
@@ -541,7 +541,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "klarix-125-mg-suspension.jpg"
+        "coverImage": "klarix-125-mg-suspension-8786.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7544/denvar-ds-200-mg-suspension",
@@ -557,7 +557,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "denvar-ds-200-mg-suspension.jpg"
+        "coverImage": "denvar-ds-200-mg-suspension-7544.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7391/clavusef-125-mg-suspension",
@@ -573,7 +573,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "clavusef-125-mg-suspension.jpg"
+        "coverImage": "clavusef-125-mg-suspension-7391.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7555/emixef-ds-200-mg-suspension",
@@ -589,7 +589,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "emixef-ds-200-mg-suspension.jpg"
+        "coverImage": "emixef-ds-200-mg-suspension-7555.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/31024/furoclav-125-mg-suspension",
@@ -605,7 +605,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "furoclav-125-mg-suspension.jpg"
+        "coverImage": "furoclav-125-mg-suspension-31024.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/18793/rofixim-ds-200-mg-suspension",
@@ -621,7 +621,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "rofixim-ds-200-mg-suspension.jpg"
+        "coverImage": "rofixim-ds-200-mg-suspension-18793.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9313/neofloxin-250-mg-suspension",
@@ -637,7 +637,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "neofloxin-250-mg-suspension.jpg"
+        "coverImage": "neofloxin-250-mg-suspension-9313.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7194/cefotil-125-mg-suspension",
@@ -653,7 +653,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "cefotil-125-mg-suspension.jpg"
+        "coverImage": "cefotil-125-mg-suspension-7194.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7692/zemicef-ds-200-mg-suspension",
@@ -669,7 +669,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "zemicef-ds-200-mg-suspension.jpg"
+        "coverImage": "zemicef-ds-200-mg-suspension-7692.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7823/vanprox-40-mg-suspension",
@@ -685,7 +685,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "vanprox-40-mg-suspension.jpg"
+        "coverImage": "vanprox-40-mg-suspension-7823.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/19017/clavurox-125-mg-suspension",
@@ -701,7 +701,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "clavurox-125-mg-suspension.jpg"
+        "coverImage": "clavurox-125-mg-suspension-19017.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7632/roxim-100-mg-suspension",
@@ -717,7 +717,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "roxim-100-mg-suspension.jpg"
+        "coverImage": "roxim-100-mg-suspension-7632.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26446/inbuten-90-mg-suspension",
@@ -733,7 +733,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "inbuten-90-mg-suspension.jpg"
+        "coverImage": "inbuten-90-mg-suspension-26446.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7404/cerox-cv-125-mg-suspension",
@@ -749,7 +749,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "cerox-cv-125-mg-suspension.jpg"
+        "coverImage": "cerox-cv-125-mg-suspension-7404.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7247/furocef-125-mg-suspension",
@@ -765,7 +765,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "furocef-125-mg-suspension.jpg"
+        "coverImage": "furocef-125-mg-suspension-7247.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7504/cefim-3-200-mg-capsule",
@@ -781,7 +781,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "cefim-3-200-mg-capsule.jpg"
+        "coverImage": "cefim-3-200-mg-capsule-7504.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7673/triocim-ds-200-mg-suspension",
@@ -797,7 +797,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "triocim-ds-200-mg-suspension.jpg"
+        "coverImage": "triocim-ds-200-mg-suspension-7673.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30359/furocef-ds-250-mg-suspension",
@@ -813,7 +813,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "furocef-ds-250-mg-suspension.jpg"
+        "coverImage": "furocef-ds-250-mg-suspension-30359.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/18751/cefixim-100-mg-suspension",
@@ -829,7 +829,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "cefixim-100-mg-suspension.jpg"
+        "coverImage": "cefixim-100-mg-suspension-18751.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30976/megenox-200-mg-suspension",
@@ -845,7 +845,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "megenox-200-mg-suspension.jpg"
+        "coverImage": "megenox-200-mg-suspension-30976.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7568/fix-a-100-mg-suspension",
@@ -861,7 +861,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "fix-a-100-mg-suspension.jpg"
+        "coverImage": "fix-a-100-mg-suspension-7568.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7677/truso-ds-200-mg-suspension",
@@ -877,7 +877,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "truso-ds-200-mg-suspension.jpg"
+        "coverImage": "truso-ds-200-mg-suspension-7677.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7653/t-cef-100-mg-suspension",
@@ -893,7 +893,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "t-cef-100-mg-suspension.jpg"
+        "coverImage": "t-cef-100-mg-suspension-7653.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7528/ceftid-100-mg-suspension",
@@ -909,7 +909,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ceftid-100-mg-suspension.jpg"
+        "coverImage": "ceftid-100-mg-suspension-7528.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7465/afix-100-mg-suspension",
@@ -925,7 +925,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "afix-100-mg-suspension.jpg"
+        "coverImage": "afix-100-mg-suspension-7465.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9007/cotrim-200-mg-suspension",
@@ -941,7 +941,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "cotrim-200-mg-suspension.jpg"
+        "coverImage": "cotrim-200-mg-suspension-9007.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/10105/flagyl-200-mg-suspension",
@@ -957,7 +957,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "flagyl-200-mg-suspension.jpg"
+        "coverImage": "flagyl-200-mg-suspension-10105.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29222/povidex-10-w-solution",
@@ -973,7 +973,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "povidex-10-w-solution.jpg"
+        "coverImage": "povidex-10-w-solution-29222.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12855/viodin-10-w-solution",
@@ -989,7 +989,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "viodin-10-w-solution.jpg"
+        "coverImage": "viodin-10-w-solution-12855.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2322/nitoxin-100-mg-suspension",
@@ -1005,7 +1005,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "nitoxin-100-mg-suspension.jpg"
+        "coverImage": "nitoxin-100-mg-suspension-2322.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33909/easyhaler-inhaler",
@@ -1021,7 +1021,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "easyhaler-inhaler.jpg"
+        "coverImage": "easyhaler-inhaler-33909.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12650/halobet-005-cream",
@@ -1037,7 +1037,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "halobet-005-cream.jpg"
+        "coverImage": "halobet-005-cream-12650.jpg"
     },
     {
         "url": "https://medex.com.bd/index.php/brands/12660/topicort-1-cream",
@@ -1053,7 +1053,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "topicort-1-cream.jpg"
+        "coverImage": "topicort-1-cream-12660.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12572/dermasol-005-ointment",
@@ -1069,7 +1069,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "dermasol-005-ointment.jpg"
+        "coverImage": "dermasol-005-ointment-12572.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/36572/bactrobex-2-w-ointment",
@@ -1085,7 +1085,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "bactrobex-2-w-ointment.jpg"
+        "coverImage": "bactrobex-2-w-ointment-36572.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/10022/micosina-2-w-oral-gel",
@@ -1101,7 +1101,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "micosina-2-w-oral-gel.jpg"
+        "coverImage": "micosina-2-w-oral-gel-10022.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12628/skinalar-0025-cream",
@@ -1117,7 +1117,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "skinalar-0025-cream.jpg"
+        "coverImage": "skinalar-0025-cream-12628.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/13049/fungicort-1-01-cream",
@@ -1133,7 +1133,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "fungicort-1-01-cream.jpg"
+        "coverImage": "fungicort-1-01-cream-13049.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12330/muron-2-w-ointment",
@@ -1149,7 +1149,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "muron-2-w-ointment.jpg"
+        "coverImage": "muron-2-w-ointment-12330.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/10870/champion-30-10-cream",
@@ -1165,7 +1165,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "champion-30-10-cream.jpg"
+        "coverImage": "champion-30-10-cream-10870.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/11420/diproxen-10-w-gel",
@@ -1181,7 +1181,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "diproxen-10-w-gel.jpg"
+        "coverImage": "diproxen-10-w-gel-11420.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12500/permin-5-w-cream",
@@ -1197,7 +1197,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "permin-5-w-cream.jpg"
+        "coverImage": "permin-5-w-cream-12500.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/31252/skinobac-2-w-ointment",
@@ -1213,7 +1213,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "skinobac-2-w-ointment.jpg"
+        "coverImage": "skinobac-2-w-ointment-31252.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33108/cabazol-1-cream",
@@ -1229,7 +1229,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "cabazol-1-cream.jpg"
+        "coverImage": "cabazol-1-cream-33108.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33941/topiderm-2-1-cream",
@@ -1245,7 +1245,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "topiderm-2-1-cream.jpg"
+        "coverImage": "topiderm-2-1-cream-33941.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12481/arotrix-5-w-cream",
@@ -1261,7 +1261,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "arotrix-5-w-cream.jpg"
+        "coverImage": "arotrix-5-w-cream-12481.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12563/clobesol-005-cream",
@@ -1277,7 +1277,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "clobesol-005-cream.jpg"
+        "coverImage": "clobesol-005-cream-12563.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/19328/cicloson-50-mcg-nasal-spray",
@@ -1293,7 +1293,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "cicloson-50-mcg-nasal-spray.jpg"
+        "coverImage": "cicloson-50-mcg-nasal-spray-19328.jpg"
     },
     {
         "url": "https://medex.com.bd/index.php/brands/9999/dancel-2-shampoo",
@@ -1309,7 +1309,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "dancel-2-shampoo.jpg"
+        "coverImage": "dancel-2-shampoo-9999.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/32161/t-cure-2-cream",
@@ -1325,7 +1325,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "t-cure-2-cream.jpg"
+        "coverImage": "t-cure-2-cream-32161.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12797/kerasol-12-cream",
@@ -1341,7 +1341,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "kerasol-12-cream.jpg"
+        "coverImage": "kerasol-12-cream-12797.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7464/afix-400-mg-capsule",
@@ -1357,7 +1357,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "afix-400-mg-capsule.jpg"
+        "coverImage": "afix-400-mg-capsule-7464.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26403/afix-200-mg-tablet",
@@ -1373,7 +1373,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "afix-200-mg-tablet.jpg"
+        "coverImage": "afix-200-mg-tablet-26403.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5823/pred-5-mg-tablet",
@@ -1389,7 +1389,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "pred-5-mg-tablet.jpg"
+        "coverImage": "pred-5-mg-tablet-5823.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/8743/zithrox-250-mg-tablet",
@@ -1405,7 +1405,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "zithrox-250-mg-tablet.jpg"
+        "coverImage": "zithrox-250-mg-tablet-8743.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/4574/veniz-xr-75-mg-capsule",
@@ -1421,7 +1421,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "veniz-xr-75-mg-capsule.jpg"
+        "coverImage": "veniz-xr-75-mg-capsule-4574.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/34761/menacal-d-75-mcg-chewable-tablet",
@@ -1437,7 +1437,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "menacal-d-75-mcg-chewable-tablet.jpg"
+        "coverImage": "menacal-d-75-mcg-chewable-tablet-34761.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/36095/proeast-z-5-billion-capsule",
@@ -1453,7 +1453,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "proeast-z-5-billion-capsule.jpg"
+        "coverImage": "proeast-z-5-billion-capsule-36095.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/34327/tinafin-250-mg-tablet",
@@ -1469,7 +1469,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "tinafin-250-mg-tablet.jpg"
+        "coverImage": "tinafin-250-mg-tablet-34327.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/36653/micatel-40-mg-tablet",
@@ -1485,7 +1485,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "micatel-40-mg-tablet.jpg"
+        "coverImage": "micatel-40-mg-tablet-36653.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/16421/refla-6-mg-tablet",
@@ -1501,7 +1501,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "refla-6-mg-tablet.jpg"
+        "coverImage": "refla-6-mg-tablet-16421.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33985/dexochol-150-mg-tablet",
@@ -1517,7 +1517,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "dexochol-150-mg-tablet.jpg"
+        "coverImage": "dexochol-150-mg-tablet-33985.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/13521/raditrol-025-mcg-capsule",
@@ -1533,7 +1533,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "raditrol-025-mcg-capsule.jpg"
+        "coverImage": "raditrol-025-mcg-capsule-13521.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3311/fibrino-500-mg-capsule",
@@ -1549,7 +1549,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "fibrino-500-mg-capsule.jpg"
+        "coverImage": "fibrino-500-mg-capsule-3311.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29904/calcor-dx-600-mg-tablet",
@@ -1565,7 +1565,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "calcor-dx-600-mg-tablet.jpg"
+        "coverImage": "calcor-dx-600-mg-tablet-29904.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33798/selbis-5-mg-tablet",
@@ -1581,7 +1581,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "selbis-5-mg-tablet.jpg"
+        "coverImage": "selbis-5-mg-tablet-33798.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/1905/omrazol-20-mg-capsule",
@@ -1597,7 +1597,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "omrazol-20-mg-capsule.jpg"
+        "coverImage": "omrazol-20-mg-capsule-1905.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35423/delpraz-30-mg-capsule",
@@ -1613,7 +1613,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "delpraz-30-mg-capsule.jpg"
+        "coverImage": "delpraz-30-mg-capsule-35423.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/14740/precare-tablet",
@@ -1629,7 +1629,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "precare-tablet.jpg"
+        "coverImage": "precare-tablet-14740.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35425/remicron-mr-30-mg-tablet",
@@ -1645,7 +1645,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "remicron-mr-30-mg-tablet.jpg"
+        "coverImage": "remicron-mr-30-mg-tablet-35425.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29871/pangesic-325-mg-tablet",
@@ -1661,7 +1661,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "pangesic-325-mg-tablet.jpg"
+        "coverImage": "pangesic-325-mg-tablet-29871.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35/ceclofen-100-mg-tablet",
@@ -1677,7 +1677,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ceclofen-100-mg-tablet.jpg"
+        "coverImage": "ceclofen-100-mg-tablet-35.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33439/folinic-5-mg-tablet",
@@ -1693,7 +1693,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "folinic-5-mg-tablet.jpg"
+        "coverImage": "folinic-5-mg-tablet-33439.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/15497/tolson-50-mg-tablet",
@@ -1709,7 +1709,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "tolson-50-mg-tablet.jpg"
+        "coverImage": "tolson-50-mg-tablet-15497.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29819/danflex-25-mg-capsule",
@@ -1725,7 +1725,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "danflex-25-mg-capsule.jpg"
+        "coverImage": "danflex-25-mg-capsule-29819.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/1171/avocard-10-mg-tablet",
@@ -1741,7 +1741,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "avocard-10-mg-tablet.jpg"
+        "coverImage": "avocard-10-mg-tablet-1171.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5272/glix-80-mg-tablet",
@@ -1757,7 +1757,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "glix-80-mg-tablet.jpg"
+        "coverImage": "glix-80-mg-tablet-5272.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/813/cvnor-a-5-mg-tablet",
@@ -1773,7 +1773,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "cvnor-a-5-mg-tablet.jpg"
+        "coverImage": "cvnor-a-5-mg-tablet-813.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/15323/kenodol-10-mg-tablet",
@@ -1789,7 +1789,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "kenodol-10-mg-tablet.jpg"
+        "coverImage": "kenodol-10-mg-tablet-15323.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/13400/merivit-capsule",
@@ -1805,7 +1805,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "merivit-capsule.jpg"
+        "coverImage": "merivit-capsule-13400.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/8703/tridosil-500-mg-tablet",
@@ -1821,7 +1821,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "tridosil-500-mg-tablet.jpg"
+        "coverImage": "tridosil-500-mg-tablet-8703.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/15180/endofree-25-mg-tablet",
@@ -1837,7 +1837,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "endofree-25-mg-tablet.jpg"
+        "coverImage": "endofree-25-mg-tablet-15180.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3320/intrax-500-mg-capsule",
@@ -1853,7 +1853,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "intrax-500-mg-capsule.jpg"
+        "coverImage": "intrax-500-mg-capsule-3320.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/11146/edopain-300-mg-capsule",
@@ -1869,7 +1869,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "edopain-300-mg-capsule.jpg"
+        "coverImage": "edopain-300-mg-capsule-11146.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3912/budemet-200-mcg-inhalation-capsule",
@@ -1885,7 +1885,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "budemet-200-mcg-inhalation-capsule.jpg"
+        "coverImage": "budemet-200-mcg-inhalation-capsule-3912.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35911/neureliv-50-mg-tablet",
@@ -1901,7 +1901,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "neureliv-50-mg-tablet.jpg"
+        "coverImage": "neureliv-50-mg-tablet-35911.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/20392/fenox-120-mg-tablet",
@@ -1917,7 +1917,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "fenox-120-mg-tablet.jpg"
+        "coverImage": "fenox-120-mg-tablet-20392.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26215/nebipro-25-mg-tablet",
@@ -1933,7 +1933,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "nebipro-25-mg-tablet.jpg"
+        "coverImage": "nebipro-25-mg-tablet-26215.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/11504/ecless-250-mg-tablet",
@@ -1949,7 +1949,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ecless-250-mg-tablet.jpg"
+        "coverImage": "ecless-250-mg-tablet-11504.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/37169/organical-d-500-mg-tablet",
@@ -1965,7 +1965,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "organical-d-500-mg-tablet.jpg"
+        "coverImage": "organical-d-500-mg-tablet-37169.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/37170/organical-dx-600-mg-tablet",
@@ -1981,7 +1981,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "organical-dx-600-mg-tablet.jpg"
+        "coverImage": "organical-dx-600-mg-tablet-37170.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/36547/itopa-50-50-mg-tablet",
@@ -1997,7 +1997,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "itopa-50-50-mg-tablet.jpg"
+        "coverImage": "itopa-50-50-mg-tablet-36547.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5722/viptin-plus-50-mg-tablet",
@@ -2013,7 +2013,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "viptin-plus-50-mg-tablet.jpg"
+        "coverImage": "viptin-plus-50-mg-tablet-5722.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2938/anreb-plus-50-mg-tablet",
@@ -2029,7 +2029,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "anreb-plus-50-mg-tablet.jpg"
+        "coverImage": "anreb-plus-50-mg-tablet-2938.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33837/wella-125-mg-tablet",
@@ -2045,7 +2045,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "wella-125-mg-tablet.jpg"
+        "coverImage": "wella-125-mg-tablet-33837.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35832/actifol-5-mg-tablet",
@@ -2061,7 +2061,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "actifol-5-mg-tablet.jpg"
+        "coverImage": "actifol-5-mg-tablet-35832.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2502/myocor-25-mg-tablet",
@@ -2077,7 +2077,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "myocor-25-mg-tablet.jpg"
+        "coverImage": "myocor-25-mg-tablet-2502.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/31939/noflash-01-mg-tablet",
@@ -2093,7 +2093,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "noflash-01-mg-tablet.jpg"
+        "coverImage": "noflash-01-mg-tablet-31939.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/687/emlon-5-mg-tablet",
@@ -2109,7 +2109,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "emlon-5-mg-tablet.jpg"
+        "coverImage": "emlon-5-mg-tablet-687.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/31600/genodex-30-mg-capsule",
@@ -2125,7 +2125,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "genodex-30-mg-capsule.jpg"
+        "coverImage": "genodex-30-mg-capsule-31600.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/31739/fizi-10-mg-tablet",
@@ -2141,7 +2141,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "fizi-10-mg-tablet.jpg"
+        "coverImage": "fizi-10-mg-tablet-31739.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35093/vonopa-20-mg-tablet",
@@ -2157,7 +2157,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "vonopa-20-mg-tablet.jpg"
+        "coverImage": "vonopa-20-mg-tablet-35093.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/6904/intracef-500-mg-capsule",
@@ -2173,7 +2173,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "intracef-500-mg-capsule.jpg"
+        "coverImage": "intracef-500-mg-capsule-6904.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3733/kofen-1-mg-tablet",
@@ -2189,7 +2189,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "kofen-1-mg-tablet.jpg"
+        "coverImage": "kofen-1-mg-tablet-3733.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35569/folistar-5-mg-tablet",
@@ -2205,7 +2205,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "folistar-5-mg-tablet.jpg"
+        "coverImage": "folistar-5-mg-tablet-35569.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/11749/myorel-10-mg-tablet",
@@ -2221,7 +2221,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "myorel-10-mg-tablet.jpg"
+        "coverImage": "myorel-10-mg-tablet-11749.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/32272/mirader-25-mg-tablet",
@@ -2237,7 +2237,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "mirader-25-mg-tablet.jpg"
+        "coverImage": "mirader-25-mg-tablet-32272.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29614/tolfem-200-mg-tablet",
@@ -2253,7 +2253,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "tolfem-200-mg-tablet.jpg"
+        "coverImage": "tolfem-200-mg-tablet-29614.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/28873/resq-100-mg-capsule",
@@ -2269,7 +2269,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "resq-100-mg-capsule.jpg"
+        "coverImage": "resq-100-mg-capsule-28873.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3917/bufocort-200-mcg-inhalation-capsule",
@@ -2285,7 +2285,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "bufocort-200-mcg-inhalation-capsule.jpg"
+        "coverImage": "bufocort-200-mcg-inhalation-capsule-3917.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9655/rutix-400-mg-tablet",
@@ -2301,7 +2301,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "rutix-400-mg-tablet.jpg"
+        "coverImage": "rutix-400-mg-tablet-9655.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29121/caloprid-1-mg-tablet",
@@ -2317,7 +2317,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "caloprid-1-mg-tablet.jpg"
+        "coverImage": "caloprid-1-mg-tablet-29121.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2594/acetor-25-mg-tablet",
@@ -2333,7 +2333,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "acetor-25-mg-tablet.jpg"
+        "coverImage": "acetor-25-mg-tablet-2594.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/1900/omitac-20-mg-capsule",
@@ -2349,7 +2349,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "omitac-20-mg-capsule.jpg"
+        "coverImage": "omitac-20-mg-capsule-1900.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/1847/omecap-20-mg-capsule",
@@ -2365,7 +2365,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "omecap-20-mg-capsule.jpg"
+        "coverImage": "omecap-20-mg-capsule-1847.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/1946/prolok-20-mg-capsule",
@@ -2381,7 +2381,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "prolok-20-mg-capsule.jpg"
+        "coverImage": "prolok-20-mg-capsule-1946.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/37500/laxofit-10-mg-tablet",
@@ -2397,7 +2397,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "laxofit-10-mg-tablet.jpg"
+        "coverImage": "laxofit-10-mg-tablet-37500.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/37341/pikos-10-mg-tablet",
@@ -2413,7 +2413,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "pikos-10-mg-tablet.jpg"
+        "coverImage": "pikos-10-mg-tablet-37341.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33241/picosul-10-mg-tablet",
@@ -2429,7 +2429,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "picosul-10-mg-tablet.jpg"
+        "coverImage": "picosul-10-mg-tablet-33241.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7681/unifix-200-mg-capsule",
@@ -2445,7 +2445,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "unifix-200-mg-capsule.jpg"
+        "coverImage": "unifix-200-mg-capsule-7681.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/28088/falcon-50-mg-capsule",
@@ -2461,7 +2461,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "falcon-50-mg-capsule.jpg"
+        "coverImage": "falcon-50-mg-capsule-28088.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/38098/empoli-10-mg-tablet",
@@ -2477,7 +2477,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "empoli-10-mg-tablet.jpg"
+        "coverImage": "empoli-10-mg-tablet-38098.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9455/levoflox-500-mg-tablet",
@@ -2493,7 +2493,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "levoflox-500-mg-tablet.jpg"
+        "coverImage": "levoflox-500-mg-tablet-9455.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/31513/axicef-plus-250-mg-tablet",
@@ -2509,7 +2509,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "axicef-plus-250-mg-tablet.jpg"
+        "coverImage": "axicef-plus-250-mg-tablet-31513.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/6860/dicef-500-mg-capsule",
@@ -2525,7 +2525,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "dicef-500-mg-capsule.jpg"
+        "coverImage": "dicef-500-mg-capsule-6860.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35486/nabuflex-500-mg-tablet",
@@ -2541,7 +2541,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "nabuflex-500-mg-tablet.jpg"
+        "coverImage": "nabuflex-500-mg-tablet-35486.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9440/leo-500-mg-tablet",
@@ -2557,7 +2557,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "leo-500-mg-tablet.jpg"
+        "coverImage": "leo-500-mg-tablet-9440.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35140/prindol-3-mg-tablet",
@@ -2573,7 +2573,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "prindol-3-mg-tablet.jpg"
+        "coverImage": "prindol-3-mg-tablet-35140.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/36673/itopid-50-mg-tablet",
@@ -2589,7 +2589,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "itopid-50-mg-tablet.jpg"
+        "coverImage": "itopid-50-mg-tablet-36673.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/11267/bufen-sr-300-mg-capsule",
@@ -2605,7 +2605,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "bufen-sr-300-mg-capsule.jpg"
+        "coverImage": "bufen-sr-300-mg-capsule-11267.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/20406/migon-5-mg-tablet",
@@ -2621,7 +2621,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "migon-5-mg-tablet.jpg"
+        "coverImage": "migon-5-mg-tablet-20406.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/8586/azimex-500-mg-tablet",
@@ -2637,7 +2637,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "azimex-500-mg-tablet.jpg"
+        "coverImage": "azimex-500-mg-tablet-8586.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/34729/charm-100-mg-tablet",
@@ -2653,7 +2653,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "charm-100-mg-tablet.jpg"
+        "coverImage": "charm-100-mg-tablet-34729.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/6317/flupen-250-mg-capsule",
@@ -2669,7 +2669,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "flupen-250-mg-capsule.jpg"
+        "coverImage": "flupen-250-mg-capsule-6317.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/34268/aquacal-d-500-mg-tablet",
@@ -2685,7 +2685,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "aquacal-d-500-mg-tablet.jpg"
+        "coverImage": "aquacal-d-500-mg-tablet-34268.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/34269/aquacal-dx-600-mg-tablet",
@@ -2701,7 +2701,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "aquacal-dx-600-mg-tablet.jpg"
+        "coverImage": "aquacal-dx-600-mg-tablet-34269.jpg"
     },
     {
         "url": "https://www.arogga.com/product/70568/vagilax-tablet",
@@ -2733,7 +2733,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "cefobac-250-mg-tablet.jpg"
+        "coverImage": "cefobac-250-mg-tablet-7186.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/36743/zyrolin-600-mg-tablet",
@@ -2749,7 +2749,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "zyrolin-600-mg-tablet.jpg"
+        "coverImage": "zyrolin-600-mg-tablet-36743.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/32804/nabumax-500-mg-tablet",
@@ -2765,7 +2765,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "nabumax-500-mg-tablet.jpg"
+        "coverImage": "nabumax-500-mg-tablet-32804.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30146/astamax-2-mg-capsule",
@@ -2781,7 +2781,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "astamax-2-mg-capsule.jpg"
+        "coverImage": "astamax-2-mg-capsule-30146.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/438/allynol-5-mg-tablet",
@@ -2797,7 +2797,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "allynol-5-mg-tablet.jpg"
+        "coverImage": "allynol-5-mg-tablet-438.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/19365/citalon-5-mg-tablet",
@@ -2813,7 +2813,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "citalon-5-mg-tablet.jpg"
+        "coverImage": "citalon-5-mg-tablet-19365.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/4466/citalon-10-mg-tablet",
@@ -2829,7 +2829,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "citalon-10-mg-tablet.jpg"
+        "coverImage": "citalon-10-mg-tablet-4466.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/32379/laxopic-10-mg-tablet",
@@ -2845,7 +2845,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "laxopic-10-mg-tablet.jpg"
+        "coverImage": "laxopic-10-mg-tablet-32379.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/36633/itolux-50-mg-tablet",
@@ -2861,7 +2861,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "itolux-50-mg-tablet.jpg"
+        "coverImage": "itolux-50-mg-tablet-36633.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/15354/toramax-10-mg-tablet",
@@ -2877,7 +2877,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "toramax-10-mg-tablet.jpg"
+        "coverImage": "toramax-10-mg-tablet-15354.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/34107/camlor-4-mg-tablet",
@@ -2893,7 +2893,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "camlor-4-mg-tablet.jpg"
+        "coverImage": "camlor-4-mg-tablet-34107.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5487/linajen-5-mg-tablet",
@@ -2909,7 +2909,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "linajen-5-mg-tablet.jpg"
+        "coverImage": "linajen-5-mg-tablet-5487.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29824/amiclo-125-mg-tablet",
@@ -2925,7 +2925,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "amiclo-125-mg-tablet.jpg"
+        "coverImage": "amiclo-125-mg-tablet-29824.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/37044/bonigen-20-mg-tablet",
@@ -2941,7 +2941,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "bonigen-20-mg-tablet.jpg"
+        "coverImage": "bonigen-20-mg-tablet-37044.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/38015/wella-ds-25-mg-tablet",
@@ -2957,7 +2957,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "wella-ds-25-mg-tablet.jpg"
+        "coverImage": "wella-ds-25-mg-tablet-38015.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/14901/sodicarb-600-mg-tablet",
@@ -2973,7 +2973,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "sodicarb-600-mg-tablet.jpg"
+        "coverImage": "sodicarb-600-mg-tablet-14901.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5127/tridopa-50-mg-tablet",
@@ -2989,7 +2989,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "tridopa-50-mg-tablet.jpg"
+        "coverImage": "tridopa-50-mg-tablet-5127.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5917/ethinor-5-mg-tablet",
@@ -3005,7 +3005,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ethinor-5-mg-tablet.jpg"
+        "coverImage": "ethinor-5-mg-tablet-5917.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30982/caridol-250-mg-tablet",
@@ -3021,7 +3021,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "caridol-250-mg-tablet.jpg"
+        "coverImage": "caridol-250-mg-tablet-30982.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/4472/losita-10-mg-tablet",
@@ -3037,7 +3037,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "losita-10-mg-tablet.jpg"
+        "coverImage": "losita-10-mg-tablet-4472.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35059/vini-20-mg-tablet",
@@ -3053,7 +3053,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "vini-20-mg-tablet.jpg"
+        "coverImage": "vini-20-mg-tablet-35059.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9466/levomax-500-mg-tablet",
@@ -3069,7 +3069,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "levomax-500-mg-tablet.jpg"
+        "coverImage": "levomax-500-mg-tablet-9466.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/843/sidoplus-5-mg-tablet",
@@ -3085,7 +3085,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "sidoplus-5-mg-tablet.jpg"
+        "coverImage": "sidoplus-5-mg-tablet-843.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/4471/losita-5-mg-tablet",
@@ -3101,7 +3101,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "losita-5-mg-tablet.jpg"
+        "coverImage": "losita-5-mg-tablet-4471.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5388/glunor-500-mg-tablet",
@@ -3117,7 +3117,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "glunor-500-mg-tablet.jpg"
+        "coverImage": "glunor-500-mg-tablet-5388.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/17793/augment-500-mg-tablet",
@@ -3133,7 +3133,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "augment-500-mg-tablet.jpg"
+        "coverImage": "augment-500-mg-tablet-17793.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/36637/folimax-15-mg-tablet",
@@ -3149,7 +3149,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "folimax-15-mg-tablet.jpg"
+        "coverImage": "folimax-15-mg-tablet-36637.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3785/lumona-ft-4-mg-flash-tablet",
@@ -3165,7 +3165,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "lumona-ft-4-mg-flash-tablet.jpg"
+        "coverImage": "lumona-ft-4-mg-flash-tablet-3785.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/10841/norium-5-mg-tablet",
@@ -3181,7 +3181,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "norium-5-mg-tablet.jpg"
+        "coverImage": "norium-5-mg-tablet-10841.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3386/creston-10-mg-tablet",
@@ -3197,7 +3197,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "creston-10-mg-tablet.jpg"
+        "coverImage": "creston-10-mg-tablet-3386.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26775/lumona-ft-5-mg-flash-tablet",
@@ -3213,7 +3213,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "lumona-ft-5-mg-flash-tablet.jpg"
+        "coverImage": "lumona-ft-5-mg-flash-tablet-26775.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29951/lipicon-40-mg-tablet",
@@ -3229,7 +3229,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "lipicon-40-mg-tablet.jpg"
+        "coverImage": "lipicon-40-mg-tablet-29951.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35156/duoliv-5-mg-tablet",
@@ -3245,7 +3245,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "duoliv-5-mg-tablet.jpg"
+        "coverImage": "duoliv-5-mg-tablet-35156.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12079/dinafex-180-mg-tablet",
@@ -3261,7 +3261,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "dinafex-180-mg-tablet.jpg"
+        "coverImage": "dinafex-180-mg-tablet-12079.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/22961/olmesta-40-mg-tablet",
@@ -3277,7 +3277,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "olmesta-40-mg-tablet.jpg"
+        "coverImage": "olmesta-40-mg-tablet-22961.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33040/tems-40-mg-tablet",
@@ -3293,7 +3293,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "tems-40-mg-tablet.jpg"
+        "coverImage": "tems-40-mg-tablet-33040.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5313/limaryl-3-mg-tablet",
@@ -3309,7 +3309,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "limaryl-3-mg-tablet.jpg"
+        "coverImage": "limaryl-3-mg-tablet-5313.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5314/limaryl-4-mg-tablet",
@@ -3325,7 +3325,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "limaryl-4-mg-tablet.jpg"
+        "coverImage": "limaryl-4-mg-tablet-5314.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/34496/linamet-er-5-mg-tablet",
@@ -3341,7 +3341,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "linamet-er-5-mg-tablet.jpg"
+        "coverImage": "linamet-er-5-mg-tablet-34496.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/32177/coport-m-5-mg-tablet",
@@ -3357,7 +3357,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "coport-m-5-mg-tablet.jpg"
+        "coverImage": "coport-m-5-mg-tablet-32177.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3846/reversair-odt-4-mg-tablet",
@@ -3373,7 +3373,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "reversair-odt-4-mg-tablet.jpg"
+        "coverImage": "reversair-odt-4-mg-tablet-3846.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/25724/tabis-25-mg-tablet",
@@ -3389,7 +3389,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "tabis-25-mg-tablet.jpg"
+        "coverImage": "tabis-25-mg-tablet-25724.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/23819/pg-25-mg-capsule",
@@ -3405,7 +3405,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "pg-25-mg-capsule.jpg"
+        "coverImage": "pg-25-mg-capsule-23819.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3246/preclot-75-mg-tablet",
@@ -3421,7 +3421,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "preclot-75-mg-tablet.jpg"
+        "coverImage": "preclot-75-mg-tablet-3246.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5312/limaryl-2-mg-tablet",
@@ -3437,7 +3437,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "limaryl-2-mg-tablet.jpg"
+        "coverImage": "limaryl-2-mg-tablet-5312.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/22822/vasocor-25-mg-tablet",
@@ -3453,7 +3453,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "vasocor-25-mg-tablet.jpg"
+        "coverImage": "vasocor-25-mg-tablet-22822.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/36094/maacal-dx-600-mg-tablet",
@@ -3469,7 +3469,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "maacal-dx-600-mg-tablet.jpg"
+        "coverImage": "maacal-dx-600-mg-tablet-36094.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7412/clavurox-250-mg-tablet",
@@ -3485,7 +3485,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "clavurox-250-mg-tablet.jpg"
+        "coverImage": "clavurox-250-mg-tablet-7412.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5450/metsa-xr-500-mg-tablet",
@@ -3501,7 +3501,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "metsa-xr-500-mg-tablet.jpg"
+        "coverImage": "metsa-xr-500-mg-tablet-5450.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26552/obecol-5-mg-tablet",
@@ -3517,7 +3517,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "obecol-5-mg-tablet.jpg"
+        "coverImage": "obecol-5-mg-tablet-26552.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26464/doxofyl-400-mg-tablet",
@@ -3533,7 +3533,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "doxofyl-400-mg-tablet.jpg"
+        "coverImage": "doxofyl-400-mg-tablet-26464.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35537/telmivas-hz-40-mg-tablet",
@@ -3549,7 +3549,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "telmivas-hz-40-mg-tablet.jpg"
+        "coverImage": "telmivas-hz-40-mg-tablet-35537.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33969/telmivas-80-mg-tablet",
@@ -3565,7 +3565,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "telmivas-80-mg-tablet.jpg"
+        "coverImage": "telmivas-80-mg-tablet-33969.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/651/amlovas-5-mg-tablet",
@@ -3581,7 +3581,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "amlovas-5-mg-tablet.jpg"
+        "coverImage": "amlovas-5-mg-tablet-651.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2749/losatan-50-mg-tablet",
@@ -3597,7 +3597,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "losatan-50-mg-tablet.jpg"
+        "coverImage": "losatan-50-mg-tablet-2749.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2893/spirocard-plus-20-mg-tablet",
@@ -3613,7 +3613,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "spirocard-plus-20-mg-tablet.jpg"
+        "coverImage": "spirocard-plus-20-mg-tablet-2893.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26461/clonapin-1-mg-tablet",
@@ -3629,7 +3629,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "clonapin-1-mg-tablet.jpg"
+        "coverImage": "clonapin-1-mg-tablet-26461.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3792/m-lucas-5-mg-chewable-tablet",
@@ -3645,7 +3645,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "m-lucas-5-mg-chewable-tablet.jpg"
+        "coverImage": "m-lucas-5-mg-chewable-tablet-3792.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5427/metarin-850-mg-tablet",
@@ -3661,7 +3661,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "metarin-850-mg-tablet.jpg"
+        "coverImage": "metarin-850-mg-tablet-5427.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30426/glycenor-m-5-mg-tablet",
@@ -3677,7 +3677,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "glycenor-m-5-mg-tablet.jpg"
+        "coverImage": "glycenor-m-5-mg-tablet-30426.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/37611/kalcoral-k-75-mcg-tablet",
@@ -3693,7 +3693,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "kalcoral-k-75-mcg-tablet.jpg"
+        "coverImage": "kalcoral-k-75-mcg-tablet-37611.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9924/f-zol-50-mg-capsule",
@@ -3709,7 +3709,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "f-zol-50-mg-capsule.jpg"
+        "coverImage": "f-zol-50-mg-capsule-9924.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/14065/supravit-capsule",
@@ -3725,7 +3725,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "supravit-capsule.jpg"
+        "coverImage": "supravit-capsule-14065.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/34131/e-cap-n-400-iu-capsule",
@@ -3741,7 +3741,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "e-cap-n-400-iu-capsule.jpg"
+        "coverImage": "e-cap-n-400-iu-capsule-34131.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/13983/e-cap-plus-250-mg-capsule",
@@ -3757,7 +3757,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "e-cap-plus-250-mg-capsule.jpg"
+        "coverImage": "e-cap-plus-250-mg-capsule-13983.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26623/seacal-d-500-mg-tablet",
@@ -3773,7 +3773,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "seacal-d-500-mg-tablet.jpg"
+        "coverImage": "seacal-d-500-mg-tablet-26623.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9234/ciprozid-ds-500-mg-tablet",
@@ -3789,7 +3789,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ciprozid-ds-500-mg-tablet.jpg"
+        "coverImage": "ciprozid-ds-500-mg-tablet-9234.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/1418/meverine-sr-200-mg-capsule",
@@ -3805,7 +3805,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "meverine-sr-200-mg-capsule.jpg"
+        "coverImage": "meverine-sr-200-mg-capsule-1418.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/14229/supravit-m-capsule",
@@ -3821,7 +3821,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "supravit-m-capsule.jpg"
+        "coverImage": "supravit-m-capsule-14229.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/11771/bacmax-5-mg-tablet",
@@ -3837,7 +3837,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "bacmax-5-mg-tablet.jpg"
+        "coverImage": "bacmax-5-mg-tablet-11771.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/11621/sudac-100-mg-tablet",
@@ -3853,7 +3853,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "sudac-100-mg-tablet.jpg"
+        "coverImage": "sudac-100-mg-tablet-11621.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29307/glifo-m-5-mg-tablet",
@@ -3869,7 +3869,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "glifo-m-5-mg-tablet.jpg"
+        "coverImage": "glifo-m-5-mg-tablet-29307.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/32521/neugalin-xr-825-mg-tablet",
@@ -3885,7 +3885,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "neugalin-xr-825-mg-tablet.jpg"
+        "coverImage": "neugalin-xr-825-mg-tablet-32521.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7418/famiclav-500-mg-tablet",
@@ -3901,7 +3901,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "famiclav-500-mg-tablet.jpg"
+        "coverImage": "famiclav-500-mg-tablet-7418.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26493/coralex-d-500-mg-tablet",
@@ -3917,7 +3917,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "coralex-d-500-mg-tablet.jpg"
+        "coverImage": "coralex-d-500-mg-tablet-26493.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9809/nystat-500000-unit-tablet",
@@ -3933,7 +3933,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "nystat-500000-unit-tablet.jpg"
+        "coverImage": "nystat-500000-unit-tablet-9809.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30195/telisa-40-mg-tablet",
@@ -3949,7 +3949,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "telisa-40-mg-tablet.jpg"
+        "coverImage": "telisa-40-mg-tablet-30195.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3504/salmolin-200-mcg-inhalation-capsule",
@@ -3965,7 +3965,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "salmolin-200-mcg-inhalation-capsule.jpg"
+        "coverImage": "salmolin-200-mcg-inhalation-capsule-3504.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30859/pidogrel-plus-75-mg-tablet",
@@ -3981,7 +3981,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "pidogrel-plus-75-mg-tablet.jpg"
+        "coverImage": "pidogrel-plus-75-mg-tablet-30859.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/25128/parkifen-2-mg-tablet",
@@ -3997,7 +3997,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "parkifen-2-mg-tablet.jpg"
+        "coverImage": "parkifen-2-mg-tablet-25128.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/1808/cosec-40-mg-capsule",
@@ -4013,7 +4013,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "cosec-40-mg-capsule.jpg"
+        "coverImage": "cosec-40-mg-capsule-1808.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2098/progut-40-mg-capsule",
@@ -4029,7 +4029,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "progut-40-mg-capsule.jpg"
+        "coverImage": "progut-40-mg-capsule-2098.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/1852/omegut-20-mg-capsule",
@@ -4045,7 +4045,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "omegut-20-mg-capsule.jpg"
+        "coverImage": "omegut-20-mg-capsule-1852.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/27771/imax-40-mg-capsule",
@@ -4061,7 +4061,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "imax-40-mg-capsule.jpg"
+        "coverImage": "imax-40-mg-capsule-27771.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/1958/seclo-20-mg-capsule",
@@ -4077,7 +4077,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "seclo-20-mg-capsule.jpg"
+        "coverImage": "seclo-20-mg-capsule-1958.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2067/exor-20-mg-capsule",
@@ -4093,7 +4093,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "exor-20-mg-capsule.jpg"
+        "coverImage": "exor-20-mg-capsule-2067.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/14121/supravit-g-capsule",
@@ -4109,7 +4109,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "supravit-g-capsule.jpg"
+        "coverImage": "supravit-g-capsule-14121.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/11460/napsod-275-mg-tablet",
@@ -4125,7 +4125,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "napsod-275-mg-tablet.jpg"
+        "coverImage": "napsod-275-mg-tablet-11460.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35051/limbix-ds-25-mg-tablet",
@@ -4141,7 +4141,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "limbix-ds-25-mg-tablet.jpg"
+        "coverImage": "limbix-ds-25-mg-tablet-35051.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9875/flugal-150-mg-capsule",
@@ -4157,7 +4157,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "flugal-150-mg-capsule.jpg"
+        "coverImage": "flugal-150-mg-capsule-9875.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/23843/nepco-25-mg-capsule",
@@ -4173,7 +4173,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "nepco-25-mg-capsule.jpg"
+        "coverImage": "nepco-25-mg-capsule-23843.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/158/virux-200-mg-tablet",
@@ -4189,7 +4189,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "virux-200-mg-tablet.jpg"
+        "coverImage": "virux-200-mg-tablet-158.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/159/virux-400-mg-tablet",
@@ -4205,7 +4205,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "virux-400-mg-tablet.jpg"
+        "coverImage": "virux-400-mg-tablet-159.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5333/secrin-3-mg-tablet",
@@ -4221,7 +4221,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "secrin-3-mg-tablet.jpg"
+        "coverImage": "secrin-3-mg-tablet-5333.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/15658/isovent-200-mcg-tablet",
@@ -4237,7 +4237,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "isovent-200-mcg-tablet.jpg"
+        "coverImage": "isovent-200-mcg-tablet-15658.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/28710/alice-12-mg-tablet",
@@ -4253,7 +4253,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "alice-12-mg-tablet.jpg"
+        "coverImage": "alice-12-mg-tablet-28710.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/28709/alice-6-mg-tablet",
@@ -4269,7 +4269,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "alice-6-mg-tablet.jpg"
+        "coverImage": "alice-6-mg-tablet-28709.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30197/telmilok-40-mg-tablet",
@@ -4285,7 +4285,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "telmilok-40-mg-tablet.jpg"
+        "coverImage": "telmilok-40-mg-tablet-30197.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/36411/methomol-750-mg-tablet",
@@ -4301,7 +4301,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "methomol-750-mg-tablet.jpg"
+        "coverImage": "methomol-750-mg-tablet-36411.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/6374/phylopen-250-mg-capsule",
@@ -4317,7 +4317,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "phylopen-250-mg-capsule.jpg"
+        "coverImage": "phylopen-250-mg-capsule-6374.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/13967/evit-400-mg-capsule",
@@ -4333,7 +4333,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "evit-400-mg-capsule.jpg"
+        "coverImage": "evit-400-mg-capsule-13967.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/34914/vonocab-20-mg-tablet",
@@ -4349,7 +4349,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "vonocab-20-mg-tablet.jpg"
+        "coverImage": "vonocab-20-mg-tablet-34914.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26102/flumetol-50-mcg-inhalation-capsule",
@@ -4365,7 +4365,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "flumetol-50-mcg-inhalation-capsule.jpg"
+        "coverImage": "flumetol-50-mcg-inhalation-capsule-26102.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9341/rocipro-500-mg-tablet",
@@ -4381,7 +4381,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "rocipro-500-mg-tablet.jpg"
+        "coverImage": "rocipro-500-mg-tablet-9341.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/13448/neural-500-mcg-tablet",
@@ -4397,7 +4397,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "neural-500-mcg-tablet.jpg"
+        "coverImage": "neural-500-mcg-tablet-13448.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7351/turbocef-250-mg-tablet",
@@ -4413,7 +4413,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "turbocef-250-mg-tablet.jpg"
+        "coverImage": "turbocef-250-mg-tablet-7351.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/27065/ostoref-d-500-mg-tablet",
@@ -4429,7 +4429,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ostoref-d-500-mg-tablet.jpg"
+        "coverImage": "ostoref-d-500-mg-tablet-27065.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/36870/ovocal-mom-tablet",
@@ -4445,7 +4445,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ovocal-mom-tablet.jpg"
+        "coverImage": "ovocal-mom-tablet-36870.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35842/itrazen-200-mg-tablet",
@@ -4461,7 +4461,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "itrazen-200-mg-tablet.jpg"
+        "coverImage": "itrazen-200-mg-tablet-35842.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30244/bilanex-20-mg-tablet",
@@ -4477,7 +4477,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "bilanex-20-mg-tablet.jpg"
+        "coverImage": "bilanex-20-mg-tablet-30244.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/4773/paloxi-05-mg-capsule",
@@ -4493,7 +4493,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "paloxi-05-mg-capsule.jpg"
+        "coverImage": "paloxi-05-mg-capsule-4773.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12283/rupadin-10-mg-tablet",
@@ -4509,7 +4509,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "rupadin-10-mg-tablet.jpg"
+        "coverImage": "rupadin-10-mg-tablet-12283.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7414/co-axet-250-mg-tablet",
@@ -4525,7 +4525,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "co-axet-250-mg-tablet.jpg"
+        "coverImage": "co-axet-250-mg-tablet-7414.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/28831/zo-mups-20-mg-tablet",
@@ -4541,7 +4541,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "zo-mups-20-mg-tablet.jpg"
+        "coverImage": "zo-mups-20-mg-tablet-28831.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/4372/u4-05-mg-tablet",
@@ -4557,7 +4557,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "u4-05-mg-tablet.jpg"
+        "coverImage": "u4-05-mg-tablet-4372.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12278/mastel-mr-10-mg-tablet",
@@ -4573,7 +4573,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "mastel-mr-10-mg-tablet.jpg"
+        "coverImage": "mastel-mr-10-mg-tablet-12278.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5048/xil-50-mg-capsule",
@@ -4589,7 +4589,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "xil-50-mg-capsule.jpg"
+        "coverImage": "xil-50-mg-capsule-5048.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/25205/arnigen-24-mg-tablet",
@@ -4605,7 +4605,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "arnigen-24-mg-tablet.jpg"
+        "coverImage": "arnigen-24-mg-tablet-25205.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/34944/coport-l-10-mg-tablet",
@@ -4621,7 +4621,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "coport-l-10-mg-tablet.jpg"
+        "coverImage": "coport-l-10-mg-tablet-34944.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7429/secoclav-500-mg-tablet",
@@ -4637,7 +4637,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "secoclav-500-mg-tablet.jpg"
+        "coverImage": "secoclav-500-mg-tablet-7429.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/23820/prebalin-25-mg-capsule",
@@ -4653,7 +4653,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "prebalin-25-mg-capsule.jpg"
+        "coverImage": "prebalin-25-mg-capsule-23820.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/22242/methipred-16-mg-tablet",
@@ -4669,7 +4669,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "methipred-16-mg-tablet.jpg"
+        "coverImage": "methipred-16-mg-tablet-22242.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5066/proval-cr-200-mg-tablet",
@@ -4685,7 +4685,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "proval-cr-200-mg-tablet.jpg"
+        "coverImage": "proval-cr-200-mg-tablet-5066.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/990/ariprazole-10-mg-tablet",
@@ -4701,7 +4701,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ariprazole-10-mg-tablet.jpg"
+        "coverImage": "ariprazole-10-mg-tablet-990.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5021/prebalin-50-mg-capsule",
@@ -4717,7 +4717,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "prebalin-50-mg-capsule.jpg"
+        "coverImage": "prebalin-50-mg-capsule-5021.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2908/ancor-plus-5-mg-tablet",
@@ -4733,7 +4733,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ancor-plus-5-mg-tablet.jpg"
+        "coverImage": "ancor-plus-5-mg-tablet-2908.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2907/ancor-plus-25-mg-tablet",
@@ -4749,7 +4749,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ancor-plus-25-mg-tablet.jpg"
+        "coverImage": "ancor-plus-25-mg-tablet-2907.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/28998/temcard-20-mg-tablet",
@@ -4765,7 +4765,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "temcard-20-mg-tablet.jpg"
+        "coverImage": "temcard-20-mg-tablet-28998.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2472/ancor-25-mg-tablet",
@@ -4781,7 +4781,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ancor-25-mg-tablet.jpg"
+        "coverImage": "ancor-25-mg-tablet-2472.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/25589/az-500-mg-tablet",
@@ -4797,7 +4797,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "az-500-mg-tablet.jpg"
+        "coverImage": "az-500-mg-tablet-25589.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/25544/tcl-r-40-mg-tablet",
@@ -4813,7 +4813,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "tcl-r-40-mg-tablet.jpg"
+        "coverImage": "tcl-r-40-mg-tablet-25544.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/16193/i-gold-60-mg-capsule",
@@ -4829,7 +4829,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "i-gold-60-mg-capsule.jpg"
+        "coverImage": "i-gold-60-mg-capsule-16193.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/21482/neurocet-500-mg-tablet",
@@ -4845,7 +4845,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "neurocet-500-mg-tablet.jpg"
+        "coverImage": "neurocet-500-mg-tablet-21482.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/36564/grincal-d-500-mg-tablet",
@@ -4861,7 +4861,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "grincal-d-500-mg-tablet.jpg"
+        "coverImage": "grincal-d-500-mg-tablet-36564.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/4467/esipram-5-mg-tablet",
@@ -4877,7 +4877,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "esipram-5-mg-tablet.jpg"
+        "coverImage": "esipram-5-mg-tablet-4467.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/15553/nintoin-100-mg-tablet",
@@ -4893,7 +4893,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "nintoin-100-mg-tablet.jpg"
+        "coverImage": "nintoin-100-mg-tablet-15553.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/4414/frenia-1-mg-tablet",
@@ -4909,7 +4909,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "frenia-1-mg-tablet.jpg"
+        "coverImage": "frenia-1-mg-tablet-4414.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33825/topirva-xr-50-mg-capsule",
@@ -4925,7 +4925,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "topirva-xr-50-mg-capsule.jpg"
+        "coverImage": "topirva-xr-50-mg-capsule-33825.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35077/merolin-25-mg-tablet",
@@ -4941,7 +4941,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "merolin-25-mg-tablet.jpg"
+        "coverImage": "merolin-25-mg-tablet-35077.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7269/kilbac-250-mg-tablet",
@@ -4957,7 +4957,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "kilbac-250-mg-tablet.jpg"
+        "coverImage": "kilbac-250-mg-tablet-7269.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7553/emixef-400-mg-capsule",
@@ -4973,7 +4973,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "emixef-400-mg-capsule.jpg"
+        "coverImage": "emixef-400-mg-capsule-7553.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/11211/oricox-120-mg-tablet",
@@ -4989,7 +4989,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "oricox-120-mg-tablet.jpg"
+        "coverImage": "oricox-120-mg-tablet-11211.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/32768/napxon-p-500-mg-tablet",
@@ -5005,7 +5005,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "napxon-p-500-mg-tablet.jpg"
+        "coverImage": "napxon-p-500-mg-tablet-32768.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5147/trihexy-5-mg-tablet",
@@ -5021,7 +5021,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "trihexy-5-mg-tablet.jpg"
+        "coverImage": "trihexy-5-mg-tablet-5147.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2866/edeloss-plus-40-mg-tablet",
@@ -5037,7 +5037,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "edeloss-plus-40-mg-tablet.jpg"
+        "coverImage": "edeloss-plus-40-mg-tablet-2866.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/27635/osteo-d-40000-iu-capsule",
@@ -5053,7 +5053,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "osteo-d-40000-iu-capsule.jpg"
+        "coverImage": "osteo-d-40000-iu-capsule-27635.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/6649/sk-mox-500-mg-capsule",
@@ -5069,7 +5069,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "sk-mox-500-mg-capsule.jpg"
+        "coverImage": "sk-mox-500-mg-capsule-6649.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/4415/frenia-2-mg-tablet",
@@ -5085,7 +5085,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "frenia-2-mg-tablet.jpg"
+        "coverImage": "frenia-2-mg-tablet-4415.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/18287/cardobis-plus-25-mg-tablet",
@@ -5101,7 +5101,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "cardobis-plus-25-mg-tablet.jpg"
+        "coverImage": "cardobis-plus-25-mg-tablet-18287.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5825/pred-20-mg-tablet",
@@ -5117,7 +5117,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "pred-20-mg-tablet.jpg"
+        "coverImage": "pred-20-mg-tablet-5825.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5824/pred-10-mg-tablet",
@@ -5133,7 +5133,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "pred-10-mg-tablet.jpg"
+        "coverImage": "pred-10-mg-tablet-5824.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2901/dezide-50-mg-tablet",
@@ -5149,7 +5149,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "dezide-50-mg-tablet.jpg"
+        "coverImage": "dezide-50-mg-tablet-2901.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9942/nispore-50-mg-capsule",
@@ -5165,7 +5165,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "nispore-50-mg-capsule.jpg"
+        "coverImage": "nispore-50-mg-capsule-9942.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/32317/zinc-kid-20-mg-tablet",
@@ -5181,7 +5181,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "zinc-kid-20-mg-tablet.jpg"
+        "coverImage": "zinc-kid-20-mg-tablet-32317.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26901/arokast-ft-4-mg-flash-tablet",
@@ -5197,7 +5197,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "arokast-ft-4-mg-flash-tablet.jpg"
+        "coverImage": "arokast-ft-4-mg-flash-tablet-26901.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30331/l-amlo-5-mg-tablet",
@@ -5213,7 +5213,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "l-amlo-5-mg-tablet.jpg"
+        "coverImage": "l-amlo-5-mg-tablet-30331.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/19008/fixcef-plus-250-mg-tablet",
@@ -5229,7 +5229,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "fixcef-plus-250-mg-tablet.jpg"
+        "coverImage": "fixcef-plus-250-mg-tablet-19008.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7233/fixcef-250-mg-tablet",
@@ -5245,7 +5245,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "fixcef-250-mg-tablet.jpg"
+        "coverImage": "fixcef-250-mg-tablet-7233.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/27921/glimicron-mr-60-mg-tablet",
@@ -5261,7 +5261,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "glimicron-mr-60-mg-tablet.jpg"
+        "coverImage": "glimicron-mr-60-mg-tablet-27921.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5429/metfar-850-mg-tablet",
@@ -5277,7 +5277,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "metfar-850-mg-tablet.jpg"
+        "coverImage": "metfar-850-mg-tablet-5429.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5245/glizid-mr-30-mg-tablet",
@@ -5293,7 +5293,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "glizid-mr-30-mg-tablet.jpg"
+        "coverImage": "glizid-mr-30-mg-tablet-5245.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12122/fixal-60-mg-tablet",
@@ -5309,7 +5309,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "fixal-60-mg-tablet.jpg"
+        "coverImage": "fixal-60-mg-tablet-12122.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5422/met-500-mg-tablet",
@@ -5325,7 +5325,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "met-500-mg-tablet.jpg"
+        "coverImage": "met-500-mg-tablet-5422.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30461/escilex-10-mg-tablet",
@@ -5341,7 +5341,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "escilex-10-mg-tablet.jpg"
+        "coverImage": "escilex-10-mg-tablet-30461.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33143/diampa-m-5-mg-tablet",
@@ -5357,7 +5357,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "diampa-m-5-mg-tablet.jpg"
+        "coverImage": "diampa-m-5-mg-tablet-33143.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/4556/mirtaz-15-mg-tablet",
@@ -5373,7 +5373,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "mirtaz-15-mg-tablet.jpg"
+        "coverImage": "mirtaz-15-mg-tablet-4556.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/4813/zeptol-200-mg-tablet",
@@ -5389,7 +5389,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "zeptol-200-mg-tablet.jpg"
+        "coverImage": "zeptol-200-mg-tablet-4813.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/31952/sizodon-md-1-mg-tablet",
@@ -5405,7 +5405,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "sizodon-md-1-mg-tablet.jpg"
+        "coverImage": "sizodon-md-1-mg-tablet-31952.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5358/bigmet-850-mg-tablet",
@@ -5421,7 +5421,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "bigmet-850-mg-tablet.jpg"
+        "coverImage": "bigmet-850-mg-tablet-5358.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33559/thyrox-75-mcg-tablet",
@@ -5437,7 +5437,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "thyrox-75-mcg-tablet.jpg"
+        "coverImage": "thyrox-75-mcg-tablet-33559.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/4946/oxetol-150-mg-tablet",
@@ -5453,7 +5453,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "oxetol-150-mg-tablet.jpg"
+        "coverImage": "oxetol-150-mg-tablet-4946.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/4942/levipil-500-mg-tablet",
@@ -5469,7 +5469,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "levipil-500-mg-tablet.jpg"
+        "coverImage": "levipil-500-mg-tablet-4942.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/32489/informet-xr-500-mg-tablet",
@@ -5485,7 +5485,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "informet-xr-500-mg-tablet.jpg"
+        "coverImage": "informet-xr-500-mg-tablet-32489.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/13673/neuro-b-100-mg-tablet",
@@ -5501,7 +5501,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "neuro-b-100-mg-tablet.jpg"
+        "coverImage": "neuro-b-100-mg-tablet-13673.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3224/clognil-75-mg-tablet",
@@ -5517,7 +5517,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "clognil-75-mg-tablet.jpg"
+        "coverImage": "clognil-75-mg-tablet-3224.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3278/clopilet-a-75-mg-tablet",
@@ -5533,7 +5533,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "clopilet-a-75-mg-tablet.jpg"
+        "coverImage": "clopilet-a-75-mg-tablet-3278.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/17792/augment-250-mg-tablet",
@@ -5549,7 +5549,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "augment-250-mg-tablet.jpg"
+        "coverImage": "augment-250-mg-tablet-17792.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26888/olmesafe-am-5-mg-tablet",
@@ -5565,7 +5565,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "olmesafe-am-5-mg-tablet.jpg"
+        "coverImage": "olmesafe-am-5-mg-tablet-26888.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/27981/greenox-2-mg-capsule",
@@ -5581,7 +5581,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "greenox-2-mg-capsule.jpg"
+        "coverImage": "greenox-2-mg-capsule-27981.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29893/sergel-mups-20-mg-tablet",
@@ -5597,7 +5597,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "sergel-mups-20-mg-tablet.jpg"
+        "coverImage": "sergel-mups-20-mg-tablet-29893.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5421/meglu-er-500-mg-tablet",
@@ -5613,7 +5613,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "meglu-er-500-mg-tablet.jpg"
+        "coverImage": "meglu-er-500-mg-tablet-5421.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2124/lanso-30-mg-capsule",
@@ -5629,7 +5629,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "lanso-30-mg-capsule.jpg"
+        "coverImage": "lanso-30-mg-capsule-2124.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29987/chiro-cyst-500-mg-capsule",
@@ -5645,7 +5645,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "chiro-cyst-500-mg-capsule.jpg"
+        "coverImage": "chiro-cyst-500-mg-capsule-29987.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35523/prelica-cr-825-mg-tablet",
@@ -5661,7 +5661,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "prelica-cr-825-mg-tablet.jpg"
+        "coverImage": "prelica-cr-825-mg-tablet-35523.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35526/lizid-400-mg-tablet",
@@ -5677,7 +5677,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "lizid-400-mg-tablet.jpg"
+        "coverImage": "lizid-400-mg-tablet-35526.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35185/radiflex-plus-40-mg-tablet",
@@ -5693,7 +5693,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "radiflex-plus-40-mg-tablet.jpg"
+        "coverImage": "radiflex-plus-40-mg-tablet-35185.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33751/pregan-25-mg-capsule",
@@ -5709,7 +5709,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "pregan-25-mg-capsule.jpg"
+        "coverImage": "pregan-25-mg-capsule-33751.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/1803/au-20-20-mg-capsule",
@@ -5725,7 +5725,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "au-20-20-mg-capsule.jpg"
+        "coverImage": "au-20-20-mg-capsule-1803.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/17796/augment-1-gm-injection",
@@ -5741,7 +5741,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "augment-1-gm-injection.jpg"
+        "coverImage": "augment-1-gm-injection-17796.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30460/presart-am-5-mg-tablet",
@@ -5757,7 +5757,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "presart-am-5-mg-tablet.jpg"
+        "coverImage": "presart-am-5-mg-tablet-30460.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29412/olmevas-am-5-mg-tablet",
@@ -5773,7 +5773,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "olmevas-am-5-mg-tablet.jpg"
+        "coverImage": "olmevas-am-5-mg-tablet-29412.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12853/povisep-5-w-solution",
@@ -5789,7 +5789,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "povisep-5-w-solution.jpg"
+        "coverImage": "povisep-5-w-solution-12853.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33759/stay-safe-75-0125-hand-rub",
@@ -5805,7 +5805,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "stay-safe-75-0125-hand-rub.jpg"
+        "coverImage": "stay-safe-75-0125-hand-rub-33759.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/11961/etizin-5-mg-syrup",
@@ -5821,7 +5821,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "etizin-5-mg-syrup.jpg"
+        "coverImage": "etizin-5-mg-syrup-11961.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33410/ardance-m-5-mg-table",
@@ -5837,7 +5837,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ardance-m-5-mg-table.jpg"
+        "coverImage": "ardance-m-5-mg-table-33410.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/31991/utifos-3-gm-powder",
@@ -5853,7 +5853,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "utifos-3-gm-powder.jpg"
+        "coverImage": "utifos-3-gm-powder-31991.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/15777/steron-01-eye-drop",
@@ -5869,7 +5869,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "steron-01-eye-drop.jpg"
+        "coverImage": "steron-01-eye-drop-15777.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7983/exephin-500-mg-injection",
@@ -5885,7 +5885,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "exephin-500-mg-injection.jpg"
+        "coverImage": "exephin-500-mg-injection-7983.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7984/exephin-1-gm-injection",
@@ -5901,7 +5901,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "exephin-1-gm-injection.jpg"
+        "coverImage": "exephin-1-gm-injection-7984.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/8103/tribac-2-gm-injection",
@@ -5917,7 +5917,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "tribac-2-gm-injection.jpg"
+        "coverImage": "tribac-2-gm-injection-8103.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7961/ceftron-2-gm-injection",
@@ -5933,7 +5933,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ceftron-2-gm-injection.jpg"
+        "coverImage": "ceftron-2-gm-injection-7961.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7987/exephin-1-gm-injection",
@@ -5949,7 +5949,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "exephin-1-gm-injection.jpg"
+        "coverImage": "exephin-1-gm-injection-7987.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/13931/mega-c-500-mg-injection",
@@ -5965,7 +5965,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "mega-c-500-mg-injection.jpg"
+        "coverImage": "mega-c-500-mg-injection-13931.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/31044/x-jelly-1-gm-topical-gel",
@@ -5981,7 +5981,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "x-jelly-1-gm-topical-gel.jpg"
+        "coverImage": "x-jelly-1-gm-topical-gel-31044.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26169/benostar-015-mouthwash",
@@ -5997,7 +5997,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "benostar-015-mouthwash.jpg"
+        "coverImage": "benostar-015-mouthwash-26169.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30054/k-y-jelly-1125-gel",
@@ -6013,7 +6013,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "k-y-jelly-1125-gel.jpg"
+        "coverImage": "k-y-jelly-1125-gel-30054.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12308/calamine-15-5-lotion",
@@ -6029,7 +6029,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "calamine-15-5-lotion.jpg"
+        "coverImage": "calamine-15-5-lotion-12308.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/24569/nazosol-09-nasal-drop",
@@ -6045,7 +6045,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "nazosol-09-nasal-drop.jpg"
+        "coverImage": "nazosol-09-nasal-drop-24569.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/13551/kidicare-syrup",
@@ -6061,7 +6061,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "kidicare-syrup.jpg"
+        "coverImage": "kidicare-syrup-13551.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/16161/visin-02-036-eye-drop",
@@ -6077,7 +6077,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "visin-02-036-eye-drop.jpg"
+        "coverImage": "visin-02-036-eye-drop-16161.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/16176/artear-5-v-eye-drop",
@@ -6093,7 +6093,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "artear-5-v-eye-drop.jpg"
+        "coverImage": "artear-5-v-eye-drop-16176.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/15906/lotenol-t-05-03-suspension",
@@ -6109,7 +6109,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "lotenol-t-05-03-suspension.jpg"
+        "coverImage": "lotenol-t-05-03-suspension-15906.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/15872/afm-01-suspension",
@@ -6125,7 +6125,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "afm-01-suspension.jpg"
+        "coverImage": "afm-01-suspension-15872.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/34332/audicare-03-1-ear-drop",
@@ -6141,7 +6141,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "audicare-03-1-ear-drop.jpg"
+        "coverImage": "audicare-03-1-ear-drop-34332.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/15836/gatison-03-01-eye-drop",
@@ -6157,7 +6157,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "gatison-03-01-eye-drop.jpg"
+        "coverImage": "gatison-03-01-eye-drop-15836.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/31435/zypred-05-03-suspension",
@@ -6173,7 +6173,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "zypred-05-03-suspension.jpg"
+        "coverImage": "zypred-05-03-suspension-31435.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26263/iventi-d-05-01-eye-drop",
@@ -6189,7 +6189,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "iventi-d-05-01-eye-drop.jpg"
+        "coverImage": "iventi-d-05-01-eye-drop-26263.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/36810/otic-4-03-1-ear-drop",
@@ -6205,7 +6205,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "otic-4-03-1-ear-drop.jpg"
+        "coverImage": "otic-4-03-1-ear-drop-36810.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/8883/a-phenicol-05-eye-drop",
@@ -6221,7 +6221,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "a-phenicol-05-eye-drop.jpg"
+        "coverImage": "a-phenicol-05-eye-drop-8883.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29375/candistin-03-1-ear-drop",
@@ -6237,7 +6237,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "candistin-03-1-ear-drop.jpg"
+        "coverImage": "candistin-03-1-ear-drop-29375.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/34449/waxnil-5-w-ear-drop",
@@ -6253,7 +6253,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "waxnil-5-w-ear-drop.jpg"
+        "coverImage": "waxnil-5-w-ear-drop-34449.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/16240/clarizol-1-ear-drop",
@@ -6269,7 +6269,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "clarizol-1-ear-drop.jpg"
+        "coverImage": "clarizol-1-ear-drop-16240.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/16245/ciprocort-03-1-suspension",
@@ -6285,7 +6285,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ciprocort-03-1-suspension.jpg"
+        "coverImage": "ciprocort-03-1-suspension-16245.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/15798/cloram-d-01-05-eye-drop",
@@ -6301,7 +6301,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "cloram-d-01-05-eye-drop.jpg"
+        "coverImage": "cloram-d-01-05-eye-drop-15798.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/28144/gento-hc-03-1-ear-drop",
@@ -6317,7 +6317,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "gento-hc-03-1-ear-drop.jpg"
+        "coverImage": "gento-hc-03-1-ear-drop-28144.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9633/kilgen-05-eye-drop",
@@ -6333,7 +6333,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "kilgen-05-eye-drop.jpg"
+        "coverImage": "kilgen-05-eye-drop-9633.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/18582/cfresh-liquigel-1-eye-drop",
@@ -6349,7 +6349,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "cfresh-liquigel-1-eye-drop.jpg"
+        "coverImage": "cfresh-liquigel-1-eye-drop-18582.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/10850/orofresh-os-5-1-oral-solution",
@@ -6365,7 +6365,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "orofresh-os-5-1-oral-solution.jpg"
+        "coverImage": "orofresh-os-5-1-oral-solution-10850.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/1304/pedicon-67-mg-pediatric-drop",
@@ -6381,7 +6381,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "pedicon-67-mg-pediatric-drop.jpg"
+        "coverImage": "pedicon-67-mg-pediatric-drop-1304.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7106/ceflon-125-mg-suspension",
@@ -6397,7 +6397,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ceflon-125-mg-suspension.jpg"
+        "coverImage": "ceflon-125-mg-suspension-7106.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/7129/navacef-125-mg-pediatric-drop",
@@ -6413,7 +6413,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "navacef-125-mg-pediatric-drop.jpg"
+        "coverImage": "navacef-125-mg-pediatric-drop-7129.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/31748/navet-250-mg-injection",
@@ -6429,7 +6429,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "navet-250-mg-injection.jpg"
+        "coverImage": "navet-250-mg-injection-31748.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12527/betaval-n-01-05-cream",
@@ -6445,7 +6445,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "betaval-n-01-05-cream.jpg"
+        "coverImage": "betaval-n-01-05-cream-12527.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29514/tinactin-1-cream",
@@ -6461,7 +6461,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "tinactin-1-cream.jpg"
+        "coverImage": "tinactin-1-cream-29514.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/119/virux-hc-5-1-cream",
@@ -6477,7 +6477,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "virux-hc-5-1-cream.jpg"
+        "coverImage": "virux-hc-5-1-cream-119.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3034/rectocare-04-ointment",
@@ -6493,7 +6493,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "rectocare-04-ointment.jpg"
+        "coverImage": "rectocare-04-ointment-3034.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/16660/retabac-1-ointment",
@@ -6509,7 +6509,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "retabac-1-ointment.jpg"
+        "coverImage": "retabac-1-ointment-16660.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12675/h-trimazole-1-1-cream",
@@ -6525,7 +6525,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "h-trimazole-1-1-cream.jpg"
+        "coverImage": "h-trimazole-1-1-cream-12675.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33939/betson-cg-005-1-cream",
@@ -6541,7 +6541,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "betson-cg-005-1-cream.jpg"
+        "coverImage": "betson-cg-005-1-cream-33939.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/31015/haloxa-005-cream",
@@ -6557,7 +6557,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "haloxa-005-cream.jpg"
+        "coverImage": "haloxa-005-cream-31015.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/530/eromycin-3-lotion",
@@ -6573,7 +6573,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "eromycin-3-lotion.jpg"
+        "coverImage": "eromycin-3-lotion-530.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/20479/avaspray-275-mcg-nasal-spray",
@@ -6589,7 +6589,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "avaspray-275-mcg-nasal-spray.jpg"
+        "coverImage": "avaspray-275-mcg-nasal-spray-20479.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33739/solospray-09-nasal-spray",
@@ -6605,7 +6605,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "solospray-09-nasal-spray.jpg"
+        "coverImage": "solospray-09-nasal-spray-33739.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3910/trispray-55-mcg-nasal-spray",
@@ -6621,7 +6621,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "trispray-55-mcg-nasal-spray.jpg"
+        "coverImage": "trispray-55-mcg-nasal-spray-3910.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/366/cronix-10-lotion/",
@@ -6637,7 +6637,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": ".jpg"
+        "coverImage": "-366.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/14604/zesup-10-mg-syrup",
@@ -6653,7 +6653,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "zesup-10-mg-syrup.jpg"
+        "coverImage": "zesup-10-mg-syrup-14604.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/37201/tifal-syrup",
@@ -6669,7 +6669,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "tifal-syrup.jpg"
+        "coverImage": "tifal-syrup-37201.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/27672/pepnor-syrup",
@@ -6685,7 +6685,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "pepnor-syrup.jpg"
+        "coverImage": "pepnor-syrup-27672.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/13567/pogo-syrup",
@@ -6701,7 +6701,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "pogo-syrup.jpg"
+        "coverImage": "pogo-syrup-13567.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2408/tulos-335-gm-oral-solution",
@@ -6717,7 +6717,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "tulos-335-gm-oral-solution.jpg"
+        "coverImage": "tulos-335-gm-oral-solution-2408.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/31620/famogen-40-mg-suspension",
@@ -6733,7 +6733,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "famogen-40-mg-suspension.jpg"
+        "coverImage": "famogen-40-mg-suspension-31620.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/2405/sinalac-335-gm-oral-solution",
@@ -6749,7 +6749,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "sinalac-335-gm-oral-solution.jpg"
+        "coverImage": "sinalac-335-gm-oral-solution-2405.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33037/gavirad-500-mg-suspension",
@@ -6765,7 +6765,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "gavirad-500-mg-suspension.jpg"
+        "coverImage": "gavirad-500-mg-suspension-33037.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/36754/alcasol-1500-mg-oral-solution",
@@ -6781,7 +6781,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "alcasol-1500-mg-oral-solution.jpg"
+        "coverImage": "alcasol-1500-mg-oral-solution-36754.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30259/gavicid-500-mg-suspension",
@@ -6797,7 +6797,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "gavicid-500-mg-suspension.jpg"
+        "coverImage": "gavicid-500-mg-suspension-30259.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/32092/ariscon-500-mg-suspension",
@@ -6813,7 +6813,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ariscon-500-mg-suspension.jpg"
+        "coverImage": "ariscon-500-mg-suspension-32092.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29864/ulrif-1-gm-suspension",
@@ -6829,7 +6829,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ulrif-1-gm-suspension.jpg"
+        "coverImage": "ulrif-1-gm-suspension-29864.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33480/gastrum-500-mg-suspension",
@@ -6845,7 +6845,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "gastrum-500-mg-suspension.jpg"
+        "coverImage": "gastrum-500-mg-suspension-33480.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29895/sucrate-1-gm-suspension",
@@ -6861,7 +6861,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "sucrate-1-gm-suspension.jpg"
+        "coverImage": "sucrate-1-gm-suspension-29895.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35484/gavisyn-500-mg-suspension",
@@ -6877,7 +6877,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "gavisyn-500-mg-suspension.jpg"
+        "coverImage": "gavisyn-500-mg-suspension-35484.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/21934/avlocid-plus-400-mg-suspension",
@@ -6893,7 +6893,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "avlocid-plus-400-mg-suspension.jpg"
+        "coverImage": "avlocid-plus-400-mg-suspension-21934.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/37165/ulfix-1-gm-suspension",
@@ -6909,7 +6909,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ulfix-1-gm-suspension.jpg"
+        "coverImage": "ulfix-1-gm-suspension-37165.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/36739/pepelif-275-mg-syrup",
@@ -6925,7 +6925,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "pepelif-275-mg-syrup.jpg"
+        "coverImage": "pepelif-275-mg-syrup-36739.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35207/bolt-02-2-topical-gel",
@@ -6941,7 +6941,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "bolt-02-2-topical-gel.jpg"
+        "coverImage": "bolt-02-2-topical-gel-35207.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/25438/bonizol-5-mg-injection",
@@ -6957,7 +6957,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "bonizol-5-mg-injection.jpg"
+        "coverImage": "bonizol-5-mg-injection-25438.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/10858/icykool-max-30-8-cream",
@@ -6973,7 +6973,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "icykool-max-30-8-cream.jpg"
+        "coverImage": "icykool-max-30-8-cream-10858.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/10304/lemox-40-mg-syrup",
@@ -6989,7 +6989,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "lemox-40-mg-syrup.jpg"
+        "coverImage": "lemox-40-mg-syrup-10304.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/37514/volinac-max-2-w-gel",
@@ -7005,7 +7005,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "volinac-max-2-w-gel.jpg"
+        "coverImage": "volinac-max-2-w-gel-37514.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5065/epilim-200-mg-syrup",
@@ -7021,7 +7021,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "epilim-200-mg-syrup.jpg"
+        "coverImage": "epilim-200-mg-syrup-5065.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26478/palotic-0075-mg-injection",
@@ -7037,7 +7037,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "palotic-0075-mg-injection.jpg"
+        "coverImage": "palotic-0075-mg-injection-26478.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/10429/fast-80-mg-pediatric-drop",
@@ -7053,7 +7053,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "fast-80-mg-pediatric-drop.jpg"
+        "coverImage": "fast-80-mg-pediatric-drop-10429.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12242/desatrol-25-mg-syrup",
@@ -7069,7 +7069,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "desatrol-25-mg-syrup.jpg"
+        "coverImage": "desatrol-25-mg-syrup-12242.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/23727/ck-1500-mg-oral-solution",
@@ -7085,7 +7085,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ck-1500-mg-oral-solution.jpg"
+        "coverImage": "ck-1500-mg-oral-solution-23727.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/28296/provair-4-mg-oral-granules",
@@ -7101,7 +7101,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "provair-4-mg-oral-granules.jpg"
+        "coverImage": "provair-4-mg-oral-granules-28296.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12189/aleze-5-mg-suspension",
@@ -7117,7 +7117,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "aleze-5-mg-suspension.jpg"
+        "coverImage": "aleze-5-mg-suspension-12189.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/27514/ispergul-35-gm-eff-powder",
@@ -7133,7 +7133,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ispergul-35-gm-eff-powder.jpg"
+        "coverImage": "ispergul-35-gm-eff-powder-27514.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12140/ritch-30-mg-suspension",
@@ -7149,7 +7149,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ritch-30-mg-suspension.jpg"
+        "coverImage": "ritch-30-mg-suspension-12140.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/21929/gol-13125-gm-oral-solution",
@@ -7165,7 +7165,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "gol-13125-gm-oral-solution.jpg"
+        "coverImage": "gol-13125-gm-oral-solution-21929.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/1627/omidon-5-mg-suspension",
@@ -7181,7 +7181,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "omidon-5-mg-suspension.jpg"
+        "coverImage": "omidon-5-mg-suspension-1627.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30157/deflazit-6-mg-suspension",
@@ -7197,7 +7197,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "deflazit-6-mg-suspension.jpg"
+        "coverImage": "deflazit-6-mg-suspension-30157.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3015/anril-50-mg-injection",
@@ -7213,7 +7213,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "anril-50-mg-injection.jpg"
+        "coverImage": "anril-50-mg-injection-3015.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/16307/budicort-100-mcg-nasal-spray",
@@ -7229,7 +7229,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "budicort-100-mcg-nasal-spray.jpg"
+        "coverImage": "budicort-100-mcg-nasal-spray-16307.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/12709/ecozol-plus-1-01-cream/",
@@ -7245,7 +7245,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": ".jpg"
+        "coverImage": "-12709.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/33392/flamex-5-w-topical-gel",
@@ -7261,7 +7261,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "flamex-5-w-topical-gel.jpg"
+        "coverImage": "flamex-5-w-topical-gel-33392.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/18212/betson-005-ointment",
@@ -7277,7 +7277,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "betson-005-ointment.jpg"
+        "coverImage": "betson-005-ointment-18212.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/3931/bexitrol-f-25-mcg-inhaler",
@@ -7293,7 +7293,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "bexitrol-f-25-mcg-inhaler.jpg"
+        "coverImage": "bexitrol-f-25-mcg-inhaler-3931.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/18185/bet-a-01-cream",
@@ -7309,7 +7309,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "bet-a-01-cream.jpg"
+        "coverImage": "bet-a-01-cream-18185.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9128/neofloxin-03-eye-drop",
@@ -7325,7 +7325,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "neofloxin-03-eye-drop.jpg"
+        "coverImage": "neofloxin-03-eye-drop-9128.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9105/bactin-03-eye-drop",
@@ -7341,7 +7341,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "bactin-03-eye-drop.jpg"
+        "coverImage": "bactin-03-eye-drop-9105.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/1298/flacol-67-mg-pediatric-drop",
@@ -7357,7 +7357,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "flacol-67-mg-pediatric-drop.jpg"
+        "coverImage": "flacol-67-mg-pediatric-drop-1298.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9122/ciprozid-03-eye-drop",
@@ -7373,7 +7373,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ciprozid-03-eye-drop.jpg"
+        "coverImage": "ciprozid-03-eye-drop-9122.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9643/moxquin-05-eye-drop",
@@ -7389,7 +7389,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "moxquin-05-eye-drop.jpg"
+        "coverImage": "moxquin-05-eye-drop-9643.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/9118/ciprocin-03-eye-drop",
@@ -7405,7 +7405,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "ciprocin-03-eye-drop.jpg"
+        "coverImage": "ciprocin-03-eye-drop-9118.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35498/zoli-005-nasal-drop",
@@ -7421,7 +7421,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "zoli-005-nasal-drop.jpg"
+        "coverImage": "zoli-005-nasal-drop-35498.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/15988/olpadin-01-eye-drop",
@@ -7437,7 +7437,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "olpadin-01-eye-drop.jpg"
+        "coverImage": "olpadin-01-eye-drop-15988.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/15907/lotepred-plus-05-03-suspension",
@@ -7453,7 +7453,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "lotepred-plus-05-03-suspension.jpg"
+        "coverImage": "lotepred-plus-05-03-suspension-15907.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/5801/cortisol-5-mg-oral-solution",
@@ -7469,7 +7469,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "cortisol-5-mg-oral-solution.jpg"
+        "coverImage": "cortisol-5-mg-oral-solution-5801.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/15992/patadin-ds-02-eye-drop",
@@ -7485,7 +7485,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "patadin-ds-02-eye-drop.jpg"
+        "coverImage": "patadin-ds-02-eye-drop-15992.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/13439/mecolagin-500-mcg-injection",
@@ -7501,7 +7501,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "mecolagin-500-mcg-injection.jpg"
+        "coverImage": "mecolagin-500-mcg-injection-13439.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/30690/calamin-m-15-5-lotion",
@@ -7517,7 +7517,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "calamin-m-15-5-lotion.jpg"
+        "coverImage": "calamin-m-15-5-lotion-30690.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/29141/clacido-1-gm-injection",
@@ -7533,7 +7533,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "clacido-1-gm-injection.jpg"
+        "coverImage": "clacido-1-gm-injection-29141.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/35447/aritone-n-injection",
@@ -7549,7 +7549,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "aritone-n-injection.jpg"
+        "coverImage": "aritone-n-injection-35447.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/31733/terbimax-1-cream",
@@ -7565,7 +7565,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "terbimax-1-cream.jpg"
+        "coverImage": "terbimax-1-cream-31733.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/8029/oricef-1-gm-injection",
@@ -7581,7 +7581,7 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "oricef-1-gm-injection.jpg"
+        "coverImage": "oricef-1-gm-injection-8029.jpg"
     },
     {
         "url": "https://medex.com.bd/brands/26222/maltofer-100-mg-injection",
@@ -7597,6 +7597,6 @@
         "prescription": "yes",
         "feature": "no",
         "status": "active",
-        "coverImage": "maltofer-100-mg-injection.jpg"
+        "coverImage": "maltofer-100-mg-injection-26222.jpg"
     }
 ]
