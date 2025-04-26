@@ -185,6 +185,92 @@ class HelperController extends Controller
         'total_matched' => count($filtered)
     ]);
 }
+ //adjust for submited product object for store 
+ public function adjustSumitProductObj(Request $request)
+ {
+     // Step 1: Validate the uploaded file
+     $validator = Validator::make($request->all(), [
+         'file' => 'required|file|mimes:txt,json',
+     ]);
+ 
+     if ($validator->fails()) {
+         return response()->json(['errors' => $validator->errors()], 422);
+     }
+ 
+     // Step 2: Read and decode JSON from uploaded file
+     $file = $request->file('file');
+     $content = file_get_contents($file->getRealPath());
+     $products = json_decode($content, true);
+ 
+     if (!is_array($products)) {
+         return response()->json(['error' => 'Invalid JSON format'], 400);
+     }
+ 
+     $coverImageCounts = [];
+     $duplicateCoverImages = [];
+     $uniqueHashes = [];
+     $duplicateObjects = [];
+     $uniqueProducts = [];
+ 
+     // Step 3: Adjust fields and track duplicates
+     foreach ($products as &$product) {
+         $typeLower = strtolower($product['type'] ?? '');
+ 
+         // Track duplicate coverImage
+         $coverImage = $product['coverImage'] ?? '';
+         if ($coverImage) {
+             if (!isset($coverImageCounts[$coverImage])) {
+                 $coverImageCounts[$coverImage] = 1;
+             } else {
+                 $coverImageCounts[$coverImage]++;
+                 if (!in_array($coverImage, $duplicateCoverImages)) {
+                     $duplicateCoverImages[] = $coverImage;
+                 }
+             }
+         }
+ 
+         // Adjust cart_text if both tablet and capsule present
+         if (strpos($typeLower, 'tablet') !== false && strpos($typeLower, 'capsule') !== false) {
+             if (strpos($typeLower, 'tablet') !== false) {
+                 $product['cart_text'] = 'Tablet';
+             } elseif (strpos($typeLower, 'capsule') !== false) {
+                 $product['cart_text'] = 'Capsule';
+             }
+         }
+ 
+         // Adjust unit_in_pack if type contains "tablet" or "capsule"
+         if (strpos($typeLower, 'tablet') !== false || strpos($typeLower, 'capsule') !== false) {
+             $product['unit_in_pack'] = $product['cart_qty_inc'] . ' ' . strtolower($product['type']) . ' in a strip';
+         }
+ 
+         // Detect duplicates using hash
+         $hash = md5(json_encode($product));
+         if (isset($uniqueHashes[$hash])) {
+             $duplicateObjects[] = $product;
+         } else {
+             $uniqueHashes[$hash] = true;
+             $uniqueProducts[] = $product;
+         }
+     }
+ 
+     // Step 4: Save all adjusted products
+     Storage::put('filterAllProduct.txt', json_encode($products, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
+ 
+     // Step 5: Save duplicates and unique products separately
+     Storage::put('duplicateAllProductObj.txt', json_encode($duplicateObjects, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
+     Storage::put('uniqueAllProductObj.txt', json_encode($uniqueProducts, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES));
+ 
+     // Step 6: Return response
+     return response()->json([
+         'message' => 'Filtered products adjusted and saved successfully.',
+         'total_submitted' => count($products),
+         'total_unique' => count($uniqueProducts),
+         'total_duplicates' => count($duplicateObjects),
+         'duplicate_cover_images' => $duplicateCoverImages,
+     ]);
+ }
+ 
+ 
 
 
 
