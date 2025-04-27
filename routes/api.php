@@ -20,6 +20,7 @@ Route::post('/duplicate_url', [HelperController::class, 'urlChecker']);
 Route::post('/upload_url_txt', [HelperController::class, 'uploadUrl']);
 Route::post('/quantiy_adder_checker', [HelperController::class, 'quantityChecker']);
 Route::post('/adjust_sumbited_product_obj', [HelperController::class, 'adjustSumitProductObj']);
+Route::post('/ext_url_value_from_file', [HelperController::class, 'extractUrlsFromFile']);
 Route::post('/adjust_sumbited_product_obj_for_coverImage', [HelperController::class, 'adjustCoverImageForUpload']);
 Route::post('/scrape', [ScrapingController::class, 'scrapeFromFile']);
 

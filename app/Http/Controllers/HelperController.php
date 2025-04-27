@@ -310,5 +310,39 @@ public function adjustCoverImageForUpload(Request $request)
 
     return response()->json(['message' => 'Cover images adjusted and saved successfully']);
 }
+// extract url value 
+public function extractUrlsFromFile(Request $request)
+{
+    // Step 1: Validate the uploaded file
+    $validator = Validator::make($request->all(), [
+        'file' => 'required|file|mimes:txt,json',
+    ]);
 
+    if ($validator->fails()) {
+        return response()->json(['errors' => $validator->errors()], 422);
+    }
+
+    // Step 2: Read and decode JSON from uploaded file
+    $file = $request->file('file');
+    $content = file_get_contents($file->getRealPath());
+    $products = json_decode($content, true);
+
+    if (!is_array($products)) {
+        return response()->json(['error' => 'Invalid JSON format'], 400);
+    }
+
+    // Step 3: Extract all URLs
+    $urls = [];
+    foreach ($products as $product) {
+        if (isset($product['url'])) {
+            $urls[] = $product['url'];
+        }
+    }
+
+    // Step 4: Save to AllProductUrlForDownloadImage.txt
+    $fileContent = implode(PHP_EOL, $urls);
+    Storage::put('AllProductUrlForDownloadImage.txt', $fileContent);
+
+    return response()->json(['message' => 'URLs extracted and saved successfully']);
+}
 }
